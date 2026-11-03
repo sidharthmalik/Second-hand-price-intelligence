@@ -1,0 +1,1201 @@
+product_id,brand,model,category,release_year,purchase_year,condition,processor,ram_gb,storage_gb,original_price,listed_price
+P0001,Dell,Latitude 5490,Laptop,2018,2019,Fair,Intel i5,16,256,64800.0,11000
+P0002,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,6,128,16000.0,7000
+P0003,Acer,Aspire 5,Laptop,2021,2022,Good,Intel i5,8,1024,47700.0,30500
+P0004,HP,EliteBook 840 G5,Laptop,2018,2019,Poor,Intel i5,16,512,79800.0,14500
+P0005,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Like New,Snapdragon 678,4,64,15000.0,7500
+P0006,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,6,64,32400.0,15000
+P0007,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,6,128,16000.0,6500
+P0008,Samsung,Galaxy Tab A8,Tablet,2022,2024,Fair,Unisoc T618,4,64,20000.0,9500
+P0009,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,16,1024,62700.0,24000
+P0010,Realme,Realme 8,Smartphone,2021,2021,Fair,Helio G95,6,256,17000.0,6500
+P0011,Apple,MacBook Air M1,Laptop,2020,2021,Good,Apple M1,16,256,99400.0,40500
+P0012,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,16,512,59400.0,21000
+P0013,Apple,iPhone 12,Smartphone,2020,2021,Good,A14 Bionic,4,128,65000.0,26500
+P0014,Samsung,Galaxy Tab A8,Tablet,2022,2023,Fair,Unisoc T618,4,64,20000.0,11000
+P0015,OnePlus,OnePlus 9,Smartphone,2021,2023,Fair,Snapdragon 888,8,128,50000.0,18500
+P0016,OnePlus,OnePlus 9,Smartphone,2021,2021,Like New,Snapdragon 888,8,128,50000.0,21500
+P0017,Dell,Latitude 5490,Laptop,2018,2020,Good,Intel i5,16,256,64800.0,17000
+P0018,HP,EliteBook 840 G5,Laptop,2018,2020,Good,Intel i5,8,256,70000.0,12000
+P0019,Acer,Aspire 5,Laptop,2021,2023,Good,Intel i5,16,512,48600.0,23000
+P0020,Apple,MacBook Air M1,Laptop,2020,2021,Good,Apple M1,16,512,104900.0,40500
+P0021,Dell,Latitude 5490,Laptop,2018,2018,Good,Intel i5,8,512,63600.0,16500
+P0022,HP,Pavilion 15,Laptop,2020,2022,Fair,Intel i5,16,512,59400.0,19000
+P0023,Dell,Latitude 5490,Laptop,2018,2019,Like New,Intel i5,8,256,60000.0,10500
+P0024,HP,EliteBook 840 G5,Laptop,2018,2020,Good,Intel i5,16,256,75600.0,18000
+P0025,HP,EliteBook 840 G5,Laptop,2018,2018,Good,Intel i5,8,256,70000.0,16000
+P0026,Lenovo,ThinkPad T480,Laptop,2018,2018,Like New,Intel i5,8,512,68900.0,24000
+P0027,HP,Pavilion 15,Laptop,2020,2022,Good,Intel i5,8,512,55000.0,18500
+P0028,Apple,MacBook Air M1,Laptop,2020,2021,Like New,Apple M1,16,256,99400.0,46000
+P0029,Realme,Realme 8,Smartphone,2021,2022,Like New,Helio G95,6,128,16000.0,7500
+P0030,OnePlus,OnePlus 9,Smartphone,2021,2022,Like New,Snapdragon 888,16,256,57000.0,15500
+P0031,Asus,VivoBook 15,Laptop,2021,2023,Good,Intel i3,16,512,51800.0,23500
+P0032,Samsung,Galaxy S21,Smartphone,2021,2021,Poor,Exynos 2100,8,256,74200.0,32000
+P0033,Apple,iPad 9th Gen,Tablet,2021,2021,Fair,A13 Bionic,3,128,31800.0,14000
+P0034,Apple,iPad 9th Gen,Tablet,2021,2022,Fair,A13 Bionic,3,128,31800.0,14000
+P0035,Acer,Aspire 5,Laptop,2021,2023,Poor,Intel i5,8,512,45000.0,15500
+P0036,Apple,MacBook Air M1,Laptop,2020,2021,Like New,Apple M1,16,256,99400.0,42000
+P0037,Samsung,Galaxy S21,Smartphone,2021,2022,Poor,Exynos 2100,16,256,79800.0,14000
+P0038,Lenovo,ThinkPad T480,Laptop,2018,2018,Good,Intel i5,16,512,74100.0,18000
+P0039,Acer,Aspire 5,Laptop,2021,2023,Fair,Intel i5,8,1024,47700.0,16500
+P0040,HP,Pavilion 15,Laptop,2020,2022,Good,Intel i5,8,512,55000.0,19500
+P0041,Apple,iPhone 12,Smartphone,2020,2022,Good,A14 Bionic,4,128,65000.0,17500
+P0042,Dell,Latitude 5490,Laptop,2018,2018,Good,Intel i5,16,256,64800.0,19000
+P0043,Samsung,Galaxy Tab A8,Tablet,2022,2023,Good,Unisoc T618,8,128,22800.0,12000
+P0044,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Fair,Snapdragon 678,4,128,15900.0,6000
+P0045,Apple,MacBook Air M1,Laptop,2020,2020,Good,Apple M1,16,512,104900.0,41000
+P0046,Acer,Aspire 5,Laptop,2021,2022,Good,Intel i5,16,1024,51300.0,20000
+P0047,Apple,MacBook Air M1,Laptop,2020,2022,Like New,Apple M1,16,512,104900.0,46500
+P0048,Lenovo,ThinkPad T480,Laptop,2018,2020,Good,Intel i5,8,512,68900.0,18500
+P0049,HP,EliteBook 840 G5,Laptop,2018,2019,Like New,Intel i5,8,256,70000.0,25000
+P0050,HP,Pavilion 15,Laptop,2020,2022,Good,Intel i5,8,512,55000.0,20500
+P0051,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Like New,Snapdragon 678,8,128,17100.0,8000
+P0052,Samsung,Galaxy S21,Smartphone,2021,2022,Like New,Exynos 2100,8,256,74200.0,32500
+P0053,Dell,Latitude 5490,Laptop,2018,2020,Like New,Intel i5,8,256,60000.0,18000
+P0054,Apple,MacBook Air M1,Laptop,2020,2022,Fair,Apple M1,16,256,99400.0,36500
+P0055,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,4,128,15900.0,7500
+P0056,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,4,128,15900.0,6500
+P0057,HP,EliteBook 840 G5,Laptop,2018,2018,Good,Intel i5,8,256,70000.0,19000
+P0058,HP,Pavilion 15,Laptop,2020,2022,Good,Intel i5,8,512,55000.0,21500
+P0059,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,6,256,17000.0,8000
+P0060,HP,EliteBook 840 G5,Laptop,2018,2019,Good,Intel i5,16,256,75600.0,18500
+P0061,Lenovo,ThinkPad T480,Laptop,2018,2020,Fair,Intel i5,8,256,65000.0,15000
+P0062,Samsung,Galaxy S21,Smartphone,2021,2023,Like New,Exynos 2100,8,128,70000.0,29500
+P0063,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,8,64,21600.0,11500
+P0064,Samsung,Galaxy Tab A8,Tablet,2022,2022,Good,Unisoc T618,8,64,21600.0,10500
+P0065,HP,EliteBook 840 G5,Laptop,2018,2019,Good,Intel i5,8,256,70000.0,15500
+P0066,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Good,Snapdragon 678,8,128,17100.0,6500
+P0067,Realme,Realme 8,Smartphone,2021,2021,Like New,Helio G95,6,256,17000.0,8000
+P0068,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,6,64,32400.0,16000
+P0069,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,8,256,74200.0,31500
+P0070,Dell,Latitude 5490,Laptop,2018,2019,Good,Intel i5,16,256,64800.0,18500
+P0071,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,8,64,21600.0,11000
+P0072,Lenovo,ThinkPad T480,Laptop,2018,2020,Like New,Intel i5,16,512,74100.0,24500
+P0073,Dell,Latitude 5490,Laptop,2018,2019,Fair,Intel i5,8,256,60000.0,13500
+P0074,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Good,Snapdragon 678,8,64,16200.0,6500
+P0075,Apple,iPhone 12,Smartphone,2020,2022,Like New,A14 Bionic,8,256,74100.0,29000
+P0076,OnePlus,OnePlus 9,Smartphone,2021,2023,Like New,Snapdragon 888,8,256,53000.0,37000
+P0077,Apple,MacBook Air M1,Laptop,2020,2022,Fair,Apple M1,8,256,92000.0,32500
+P0078,HP,EliteBook 840 G5,Laptop,2018,2018,Like New,Intel i5,16,256,75600.0,18500
+P0079,Lenovo,ThinkPad T480,Laptop,2018,2018,Fair,Intel i5,16,256,70200.0,16500
+P0080,Lenovo,ThinkPad T480,Laptop,2018,2020,Fair,Intel i5,8,512,68900.0,15500
+P0081,Realme,Realme 8,Smartphone,2021,2022,Fair,Helio G95,12,128,17300.0,6000
+P0082,Samsung,Galaxy S21,Smartphone,2021,2021,Like New,Exynos 2100,16,256,79800.0,39500
+P0083,Apple,MacBook Air M1,Laptop,2020,2020,Like New,Apple M1,16,256,99400.0,47000
+P0084,Samsung,Galaxy S21,Smartphone,2021,2022,Like New,Exynos 2100,8,256,74200.0,33500
+P0085,Dell,Latitude 5490,Laptop,2018,2018,Fair,Intel i5,8,256,60000.0,14000
+P0086,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,8,256,74200.0,34000
+P0087,Samsung,Galaxy S21,Smartphone,2021,2022,Like New,Exynos 2100,8,256,74200.0,35500
+P0088,Apple,iPhone 12,Smartphone,2020,2022,Like New,A14 Bionic,4,128,65000.0,32000
+P0089,Apple,MacBook Air M1,Laptop,2020,2022,Good,Apple M1,16,256,99400.0,39000
+P0090,Acer,Aspire 5,Laptop,2021,2023,Good,Intel i5,16,512,48600.0,20500
+P0091,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,256,65000.0,16000
+P0092,Apple,iPhone 12,Smartphone,2020,2020,Good,A14 Bionic,4,128,65000.0,29000
+P0093,Realme,Realme 8,Smartphone,2021,2023,Good,Helio G95,6,128,16000.0,7500
+P0094,Apple,iPhone 12,Smartphone,2020,2022,Good,A14 Bionic,4,256,68900.0,27000
+P0095,Apple,iPhone 12,Smartphone,2020,2020,Good,A14 Bionic,4,256,68900.0,30000
+P0096,Dell,Latitude 5490,Laptop,2018,2019,Good,Intel i5,16,256,64800.0,16500
+P0097,Asus,VivoBook 15,Laptop,2021,2022,Like New,Intel i3,8,1024,50900.0,21500
+P0098,Realme,Realme 8,Smartphone,2021,2023,Good,Helio G95,12,128,17300.0,6000
+P0099,Dell,Latitude 5490,Laptop,2018,2019,Fair,Intel i5,8,512,63600.0,15000
+P0100,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,16,512,51800.0,23500
+P0101,Lenovo,ThinkPad T480,Laptop,2018,2019,Like New,Intel i5,8,256,65000.0,20500
+P0102,Realme,Realme 8,Smartphone,2021,2022,Poor,Helio G95,6,256,17000.0,6000
+P0103,Dell,Latitude 5490,Laptop,2018,2018,Fair,Intel i5,8,256,60000.0,15000
+P0104,HP,Pavilion 15,Laptop,2020,2022,Poor,Intel i5,8,512,55000.0,13000
+P0105,Lenovo,ThinkPad T480,Laptop,2018,2020,Good,Intel i5,8,256,65000.0,16000
+P0106,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,16,1024,62700.0,22000
+P0107,OnePlus,OnePlus 9,Smartphone,2021,2023,Good,Snapdragon 888,8,128,50000.0,22500
+P0108,Apple,iPhone 12,Smartphone,2020,2022,Fair,A14 Bionic,4,128,65000.0,23500
+P0109,Realme,Realme 8,Smartphone,2021,2022,Fair,Helio G95,6,128,16000.0,5500
+P0110,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,16,1024,54700.0,25000
+P0111,HP,EliteBook 840 G5,Laptop,2018,2020,Poor,Intel i5,8,256,70000.0,13000
+P0112,HP,Pavilion 15,Laptop,2020,2020,Good,Intel i5,8,512,55000.0,20000
+P0113,OnePlus,OnePlus 9,Smartphone,2021,2023,Good,Snapdragon 888,16,128,54000.0,23500
+P0114,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Fair,Snapdragon 678,4,128,15900.0,6500
+P0115,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,6,64,32400.0,18000
+P0116,OnePlus,OnePlus 9,Smartphone,2021,2023,Fair,Snapdragon 888,8,128,50000.0,18500
+P0117,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Fair,Snapdragon 678,4,64,15000.0,6000
+P0118,HP,Pavilion 15,Laptop,2020,2020,Good,Intel i5,8,1024,58300.0,23000
+P0119,Realme,Realme 8,Smartphone,2021,2022,Poor,Helio G95,6,256,17000.0,5500
+P0120,Realme,Realme 8,Smartphone,2021,2023,Like New,Helio G95,12,128,17300.0,7500
+P0121,OnePlus,OnePlus 9,Smartphone,2021,2022,Fair,Snapdragon 888,8,256,53000.0,20500
+P0122,Realme,Realme 8,Smartphone,2021,2022,Fair,Helio G95,6,128,16000.0,6000
+P0123,Lenovo,ThinkPad T480,Laptop,2018,2020,Good,Intel i5,8,256,65000.0,18500
+P0124,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,3,128,31800.0,15000
+P0125,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,6,128,16000.0,4500
+P0126,Acer,Aspire 5,Laptop,2021,2023,Good,Intel i5,16,512,48600.0,20500
+P0127,Dell,Latitude 5490,Laptop,2018,2020,Fair,Intel i5,8,256,60000.0,12000
+P0128,HP,Pavilion 15,Laptop,2020,2021,Like New,Intel i5,16,512,59400.0,34500
+P0129,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,16,512,59400.0,19000
+P0130,Acer,Aspire 5,Laptop,2021,2022,Good,Intel i5,8,512,45000.0,17000
+P0131,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,6,128,34200.0,18000
+P0132,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Good,Snapdragon 678,4,64,15000.0,6500
+P0133,Asus,VivoBook 15,Laptop,2021,2021,Good,Intel i3,8,512,48000.0,20500
+P0134,Realme,Realme 8,Smartphone,2021,2022,Poor,Helio G95,12,128,17300.0,5000
+P0135,OnePlus,OnePlus 9,Smartphone,2021,2022,Like New,Snapdragon 888,8,128,50000.0,23000
+P0136,OnePlus,OnePlus 9,Smartphone,2021,2023,Like New,Snapdragon 888,16,128,54000.0,13500
+P0137,Samsung,Galaxy Tab A8,Tablet,2022,2023,Good,Unisoc T618,4,64,20000.0,10000
+P0138,Samsung,Galaxy S21,Smartphone,2021,2021,Fair,Exynos 2100,8,256,74200.0,26000
+P0139,HP,Pavilion 15,Laptop,2020,2021,Like New,Intel i5,8,512,55000.0,23000
+P0140,HP,EliteBook 840 G5,Laptop,2018,2019,Good,Intel i5,8,256,70000.0,16000
+P0141,Apple,iPhone 12,Smartphone,2020,2022,Good,A14 Bionic,8,128,70200.0,31500
+P0142,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,3,128,31800.0,16000
+P0143,HP,Pavilion 15,Laptop,2020,2021,Fair,Intel i5,8,512,55000.0,22500
+P0144,Lenovo,ThinkPad T480,Laptop,2018,2018,Like New,Intel i5,16,256,70200.0,17000
+P0145,Dell,Latitude 5490,Laptop,2018,2020,Good,Intel i5,8,256,60000.0,15500
+P0146,Realme,Realme 8,Smartphone,2021,2023,Like New,Helio G95,6,128,16000.0,7000
+P0147,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Good,Snapdragon 678,4,128,15900.0,7500
+P0148,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,16,256,79800.0,35000
+P0149,Realme,Realme 8,Smartphone,2021,2023,Good,Helio G95,6,128,16000.0,7000
+P0150,Dell,Latitude 5490,Laptop,2018,2019,Like New,Intel i5,8,256,60000.0,19000
+P0151,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Fair,Snapdragon 678,8,64,16200.0,6000
+P0152,Samsung,Galaxy S21,Smartphone,2021,2023,Like New,Exynos 2100,16,256,79800.0,25500
+P0153,Samsung,Galaxy S21,Smartphone,2021,2021,Fair,Exynos 2100,8,128,70000.0,26500
+P0154,HP,EliteBook 840 G5,Laptop,2018,2018,Like New,Intel i5,8,256,70000.0,18000
+P0155,Asus,VivoBook 15,Laptop,2021,2023,Like New,Intel i3,8,1024,50900.0,25500
+P0156,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,12,256,18200.0,7000
+P0157,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Good,Snapdragon 678,8,64,16200.0,7000
+P0158,HP,EliteBook 840 G5,Laptop,2018,2019,Like New,Intel i5,8,512,74200.0,20000
+P0159,Acer,Aspire 5,Laptop,2021,2021,Fair,Intel i5,8,1024,47700.0,17500
+P0160,HP,Pavilion 15,Laptop,2020,2022,Like New,Intel i5,8,512,55000.0,24000
+P0161,Samsung,Galaxy Tab A8,Tablet,2022,2022,Good,Unisoc T618,8,64,21600.0,9500
+P0162,OnePlus,OnePlus 9,Smartphone,2021,2022,Fair,Snapdragon 888,8,128,50000.0,15500
+P0163,Samsung,Galaxy Tab A8,Tablet,2022,2022,Poor,Unisoc T618,4,64,20000.0,7000
+P0164,Apple,iPhone 12,Smartphone,2020,2020,Fair,A14 Bionic,4,128,65000.0,23000
+P0165,Samsung,Galaxy Tab A8,Tablet,2022,2024,Fair,Unisoc T618,4,128,21200.0,9500
+P0166,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,8,512,48000.0,22000
+P0167,Apple,iPhone 12,Smartphone,2020,2020,Good,A14 Bionic,4,128,65000.0,27500
+P0168,Asus,VivoBook 15,Laptop,2021,2023,Good,Intel i3,8,512,48000.0,21500
+P0169,HP,EliteBook 840 G5,Laptop,2018,2020,Fair,Intel i5,8,256,70000.0,15000
+P0170,Samsung,Galaxy Tab A8,Tablet,2022,2023,Good,Unisoc T618,4,64,20000.0,14000
+P0171,OnePlus,OnePlus 9,Smartphone,2021,2021,Like New,Snapdragon 888,16,128,54000.0,25000
+P0172,Apple,MacBook Air M1,Laptop,2020,2020,Poor,Apple M1,8,512,97500.0,27000
+P0173,Samsung,Galaxy Tab A8,Tablet,2022,2024,Like New,Unisoc T618,4,64,20000.0,16000
+P0174,Acer,Aspire 5,Laptop,2021,2021,Good,Intel i5,8,512,45000.0,19000
+P0175,Acer,Aspire 5,Laptop,2021,2023,Good,Intel i5,8,512,45000.0,17500
+P0176,Dell,Latitude 5490,Laptop,2018,2020,Good,Intel i5,16,256,64800.0,16000
+P0177,Apple,MacBook Air M1,Laptop,2020,2020,Good,Apple M1,16,512,104900.0,40500
+P0178,OnePlus,OnePlus 9,Smartphone,2021,2022,Good,Snapdragon 888,8,128,50000.0,23000
+P0179,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,16,256,79800.0,37500
+P0180,Asus,VivoBook 15,Laptop,2021,2023,Fair,Intel i3,8,512,48000.0,17500
+P0181,Apple,MacBook Air M1,Laptop,2020,2021,Good,Apple M1,8,256,92000.0,37500
+P0182,Acer,Aspire 5,Laptop,2021,2023,Good,Intel i5,8,512,45000.0,21500
+P0183,Acer,Aspire 5,Laptop,2021,2021,Good,Intel i5,8,1024,47700.0,22000
+P0184,HP,EliteBook 840 G5,Laptop,2018,2018,Good,Intel i5,16,256,75600.0,21000
+P0185,Apple,iPhone 12,Smartphone,2020,2020,Poor,A14 Bionic,4,128,65000.0,20000
+P0186,Acer,Aspire 5,Laptop,2021,2021,Poor,Intel i5,8,1024,47700.0,9500
+P0187,Samsung,Galaxy S21,Smartphone,2021,2023,Fair,Exynos 2100,8,256,74200.0,28000
+P0188,HP,EliteBook 840 G5,Laptop,2018,2019,Like New,Intel i5,8,256,70000.0,11000
+P0189,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,8,1024,58300.0,22000
+P0190,Acer,Aspire 5,Laptop,2021,2022,Fair,Intel i5,16,1024,51300.0,17500
+P0191,Samsung,Galaxy S21,Smartphone,2021,2022,Like New,Exynos 2100,16,128,75600.0,37500
+P0192,Samsung,Galaxy S21,Smartphone,2021,2022,Fair,Exynos 2100,8,256,74200.0,27500
+P0193,HP,EliteBook 840 G5,Laptop,2018,2020,Good,Intel i5,8,256,70000.0,19500
+P0194,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,3,64,30000.0,15000
+P0195,HP,EliteBook 840 G5,Laptop,2018,2019,Good,Intel i5,8,256,70000.0,19000
+P0196,Realme,Realme 8,Smartphone,2021,2023,Fair,Helio G95,6,128,16000.0,8500
+P0197,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Good,Snapdragon 678,8,128,17100.0,7500
+P0198,OnePlus,OnePlus 9,Smartphone,2021,2021,Good,Snapdragon 888,16,128,54000.0,23500
+P0199,OnePlus,OnePlus 9,Smartphone,2021,2023,Fair,Snapdragon 888,16,128,54000.0,17500
+P0200,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,4,64,20000.0,10500
+P0201,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,4,64,20000.0,11000
+P0202,Apple,iPad 9th Gen,Tablet,2021,2021,Fair,A13 Bionic,3,128,31800.0,14500
+P0203,Asus,VivoBook 15,Laptop,2021,2023,Good,Intel i3,8,512,48000.0,20000
+P0204,Apple,MacBook Air M1,Laptop,2020,2020,Poor,Apple M1,8,512,97500.0,28500
+P0205,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Good,Snapdragon 678,4,64,15000.0,6500
+P0206,Apple,MacBook Air M1,Laptop,2020,2021,Good,Apple M1,8,256,92000.0,42000
+P0207,Acer,Aspire 5,Laptop,2021,2022,Like New,Intel i5,8,1024,47700.0,21000
+P0208,Lenovo,ThinkPad T480,Laptop,2018,2020,Like New,Intel i5,8,512,68900.0,18000
+P0209,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Like New,Snapdragon 678,4,128,15900.0,8000
+P0210,HP,EliteBook 840 G5,Laptop,2018,2019,Poor,Intel i5,16,512,79800.0,14500
+P0211,Lenovo,ThinkPad T480,Laptop,2018,2018,Fair,Intel i5,8,256,65000.0,13500
+P0212,OnePlus,OnePlus 9,Smartphone,2021,2022,Good,Snapdragon 888,8,128,50000.0,21500
+P0213,Apple,iPhone 12,Smartphone,2020,2020,Poor,A14 Bionic,8,128,70200.0,15500
+P0214,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,8,512,48000.0,21500
+P0215,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Fair,Snapdragon 678,4,64,15000.0,5500
+P0216,Acer,Aspire 5,Laptop,2021,2023,Fair,Intel i5,8,512,45000.0,15500
+P0217,Apple,MacBook Air M1,Laptop,2020,2022,Like New,Apple M1,8,256,92000.0,41000
+P0218,Apple,MacBook Air M1,Laptop,2020,2020,Like New,Apple M1,8,256,92000.0,40000
+P0219,Dell,Latitude 5490,Laptop,2018,2019,Fair,Intel i5,8,256,60000.0,13500
+P0220,Lenovo,ThinkPad T480,Laptop,2018,2020,Good,Intel i5,16,256,70200.0,12000
+P0221,Apple,MacBook Air M1,Laptop,2020,2021,Good,Apple M1,8,512,97500.0,45500
+P0222,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,4,64,15000.0,4000
+P0223,Lenovo,ThinkPad T480,Laptop,2018,2019,Poor,Intel i5,16,256,70200.0,13000
+P0224,HP,EliteBook 840 G5,Laptop,2018,2019,Fair,Intel i5,8,512,74200.0,18500
+P0225,HP,Pavilion 15,Laptop,2020,2020,Fair,Intel i5,8,512,55000.0,17000
+P0226,Lenovo,ThinkPad T480,Laptop,2018,2019,Fair,Intel i5,8,512,68900.0,22500
+P0227,HP,Pavilion 15,Laptop,2020,2020,Good,Intel i5,8,512,55000.0,17500
+P0228,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Good,Snapdragon 678,4,64,15000.0,6000
+P0229,Apple,iPhone 12,Smartphone,2020,2021,Like New,A14 Bionic,4,256,68900.0,28500
+P0230,Lenovo,ThinkPad T480,Laptop,2018,2020,Like New,Intel i5,16,256,70200.0,22000
+P0231,Apple,iPad 9th Gen,Tablet,2021,2022,Like New,A13 Bionic,6,128,34200.0,21000
+P0232,Apple,MacBook Air M1,Laptop,2020,2022,Good,Apple M1,8,512,97500.0,37000
+P0233,Dell,Latitude 5490,Laptop,2018,2019,Like New,Intel i5,8,256,60000.0,16000
+P0234,Apple,iPad 9th Gen,Tablet,2021,2022,Good,A13 Bionic,3,64,30000.0,15500
+P0235,Apple,MacBook Air M1,Laptop,2020,2022,Poor,Apple M1,16,512,104900.0,28500
+P0236,Dell,Latitude 5490,Laptop,2018,2018,Like New,Intel i5,8,256,60000.0,17000
+P0237,Realme,Realme 8,Smartphone,2021,2022,Poor,Helio G95,12,128,17300.0,5500
+P0238,Lenovo,ThinkPad T480,Laptop,2018,2020,Good,Intel i5,8,512,68900.0,17000
+P0239,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,6,128,16000.0,7000
+P0240,Samsung,Galaxy Tab A8,Tablet,2022,2023,Like New,Unisoc T618,8,64,21600.0,12500
+P0241,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,16,1024,54700.0,22500
+P0242,Acer,Aspire 5,Laptop,2021,2023,Poor,Intel i5,16,512,48600.0,15000
+P0243,Samsung,Galaxy Tab A8,Tablet,2022,2023,Good,Unisoc T618,4,64,20000.0,10500
+P0244,HP,Pavilion 15,Laptop,2020,2020,Good,Intel i5,8,512,55000.0,22500
+P0245,Acer,Aspire 5,Laptop,2021,2023,Good,Intel i5,8,1024,47700.0,20000
+P0246,Apple,MacBook Air M1,Laptop,2020,2022,Fair,Apple M1,8,256,92000.0,35000
+P0247,Apple,iPad 9th Gen,Tablet,2021,2023,Poor,A13 Bionic,6,64,32400.0,12000
+P0248,Acer,Aspire 5,Laptop,2021,2023,Like New,Intel i5,16,512,48600.0,17000
+P0249,Apple,MacBook Air M1,Laptop,2020,2021,Like New,Apple M1,8,256,92000.0,42500
+P0250,Apple,iPad 9th Gen,Tablet,2021,2022,Good,A13 Bionic,6,128,34200.0,17000
+P0251,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,16,512,59400.0,22500
+P0252,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,12,256,18200.0,8000
+P0253,Dell,Latitude 5490,Laptop,2018,2020,Good,Intel i5,8,256,60000.0,15000
+P0254,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,4,128,15900.0,6500
+P0255,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,6,64,32400.0,16500
+P0256,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,512,68900.0,19000
+P0257,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,16,128,75600.0,33000
+P0258,Samsung,Galaxy Tab A8,Tablet,2022,2022,Like New,Unisoc T618,4,128,21200.0,12500
+P0259,HP,EliteBook 840 G5,Laptop,2018,2020,Good,Intel i5,8,256,70000.0,18500
+P0260,Apple,MacBook Air M1,Laptop,2020,2021,Fair,Apple M1,8,256,92000.0,33000
+P0261,Dell,Latitude 5490,Laptop,2018,2018,Good,Intel i5,8,256,60000.0,14500
+P0262,OnePlus,OnePlus 9,Smartphone,2021,2023,Good,Snapdragon 888,8,128,50000.0,15000
+P0263,Dell,Latitude 5490,Laptop,2018,2020,Fair,Intel i5,8,256,60000.0,13000
+P0264,HP,EliteBook 840 G5,Laptop,2018,2020,Good,Intel i5,16,256,75600.0,20500
+P0265,HP,Pavilion 15,Laptop,2020,2021,Like New,Intel i5,8,512,55000.0,29500
+P0266,Apple,iPhone 12,Smartphone,2020,2022,Fair,A14 Bionic,8,128,70200.0,23000
+P0267,Apple,iPad 9th Gen,Tablet,2021,2022,Good,A13 Bionic,6,64,32400.0,16500
+P0268,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,16,1024,62700.0,22500
+P0269,HP,EliteBook 840 G5,Laptop,2018,2018,Like New,Intel i5,8,256,70000.0,20000
+P0270,HP,EliteBook 840 G5,Laptop,2018,2019,Like New,Intel i5,16,512,79800.0,23500
+P0271,Apple,MacBook Air M1,Laptop,2020,2020,Good,Apple M1,16,512,104900.0,45500
+P0272,Lenovo,ThinkPad T480,Laptop,2018,2018,Like New,Intel i5,8,256,65000.0,17500
+P0273,HP,EliteBook 840 G5,Laptop,2018,2020,Good,Intel i5,8,256,70000.0,18000
+P0274,Apple,iPhone 12,Smartphone,2020,2021,Fair,A14 Bionic,8,256,74100.0,29500
+P0275,Dell,Latitude 5490,Laptop,2018,2018,Good,Intel i5,8,256,60000.0,16500
+P0276,Asus,VivoBook 15,Laptop,2021,2022,Like New,Intel i3,16,512,51800.0,27000
+P0277,HP,EliteBook 840 G5,Laptop,2018,2019,Good,Intel i5,16,256,75600.0,20500
+P0278,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Like New,Snapdragon 678,8,128,17100.0,7000
+P0279,Lenovo,ThinkPad T480,Laptop,2018,2019,Poor,Intel i5,8,512,68900.0,11500
+P0280,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,3,128,31800.0,17500
+P0281,Samsung,Galaxy S21,Smartphone,2021,2023,Good,Exynos 2100,8,128,70000.0,29500
+P0282,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Good,Snapdragon 678,4,128,15900.0,6500
+P0283,HP,Pavilion 15,Laptop,2020,2022,Good,Intel i5,8,512,55000.0,22500
+P0284,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Good,Snapdragon 678,8,128,17100.0,7500
+P0285,Acer,Aspire 5,Laptop,2021,2023,Good,Intel i5,8,512,45000.0,17500
+P0286,Asus,VivoBook 15,Laptop,2021,2021,Good,Intel i3,8,512,48000.0,17500
+P0287,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Poor,Snapdragon 678,4,64,15000.0,4500
+P0288,Acer,Aspire 5,Laptop,2021,2022,Fair,Intel i5,8,512,45000.0,17500
+P0289,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,6,256,17000.0,7500
+P0290,Apple,MacBook Air M1,Laptop,2020,2020,Good,Apple M1,8,256,92000.0,25000
+P0291,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,4,128,15900.0,6500
+P0292,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,6,128,16000.0,6000
+P0293,Acer,Aspire 5,Laptop,2021,2022,Good,Intel i5,8,512,45000.0,20000
+P0294,Dell,Latitude 5490,Laptop,2018,2019,Good,Intel i5,16,256,64800.0,16000
+P0295,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Fair,Snapdragon 678,4,64,15000.0,4500
+P0296,Samsung,Galaxy Tab A8,Tablet,2022,2023,Fair,Unisoc T618,8,128,22800.0,15000
+P0297,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,8,512,55000.0,18500
+P0298,OnePlus,OnePlus 9,Smartphone,2021,2023,Fair,Snapdragon 888,8,128,50000.0,17500
+P0299,Dell,Latitude 5490,Laptop,2018,2018,Good,Intel i5,16,256,64800.0,16500
+P0300,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,16,128,75600.0,33500
+P0301,Apple,MacBook Air M1,Laptop,2020,2020,Poor,Apple M1,8,512,97500.0,28500
+P0302,Lenovo,ThinkPad T480,Laptop,2018,2018,Like New,Intel i5,16,512,74100.0,22000
+P0303,Apple,iPad 9th Gen,Tablet,2021,2021,Fair,A13 Bionic,6,128,34200.0,13500
+P0304,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,4,64,20000.0,10500
+P0305,OnePlus,OnePlus 9,Smartphone,2021,2023,Fair,Snapdragon 888,8,256,53000.0,20000
+P0306,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,6,256,17000.0,4000
+P0307,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,12,128,17300.0,6500
+P0308,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,4,64,15000.0,6000
+P0309,HP,Pavilion 15,Laptop,2020,2020,Poor,Intel i5,16,1024,62700.0,16500
+P0310,Acer,Aspire 5,Laptop,2021,2021,Fair,Intel i5,8,512,45000.0,18500
+P0311,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Like New,Snapdragon 678,4,64,15000.0,7500
+P0312,HP,Pavilion 15,Laptop,2020,2021,Fair,Intel i5,8,1024,58300.0,18000
+P0313,Apple,MacBook Air M1,Laptop,2020,2021,Poor,Apple M1,8,256,92000.0,33500
+P0314,Acer,Aspire 5,Laptop,2021,2021,Like New,Intel i5,8,512,45000.0,21000
+P0315,HP,EliteBook 840 G5,Laptop,2018,2019,Poor,Intel i5,8,256,70000.0,11000
+P0316,Realme,Realme 8,Smartphone,2021,2022,Fair,Helio G95,6,128,16000.0,5500
+P0317,Asus,VivoBook 15,Laptop,2021,2021,Fair,Intel i3,8,512,48000.0,16000
+P0318,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,4,128,21200.0,11000
+P0319,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Like New,Snapdragon 678,4,64,15000.0,7000
+P0320,Apple,MacBook Air M1,Laptop,2020,2022,Good,Apple M1,8,256,92000.0,37000
+P0321,Realme,Realme 8,Smartphone,2021,2021,Fair,Helio G95,12,256,18200.0,6000
+P0322,Apple,iPhone 12,Smartphone,2020,2022,Fair,A14 Bionic,4,256,68900.0,29500
+P0323,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,3,64,30000.0,14000
+P0324,Samsung,Galaxy Tab A8,Tablet,2022,2023,Good,Unisoc T618,4,128,21200.0,10500
+P0325,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,6,256,17000.0,6500
+P0326,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Fair,Snapdragon 678,4,64,15000.0,5000
+P0327,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,256,65000.0,17500
+P0328,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,16,256,70200.0,17500
+P0329,Samsung,Galaxy Tab A8,Tablet,2022,2022,Fair,Unisoc T618,4,64,20000.0,9000
+P0330,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Fair,Snapdragon 678,4,64,15000.0,7500
+P0331,Dell,Latitude 5490,Laptop,2018,2020,Good,Intel i5,8,256,60000.0,17500
+P0332,Lenovo,ThinkPad T480,Laptop,2018,2018,Fair,Intel i5,8,256,65000.0,14000
+P0333,Samsung,Galaxy Tab A8,Tablet,2022,2022,Poor,Unisoc T618,4,64,20000.0,7500
+P0334,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,6,256,17000.0,8000
+P0335,Acer,Aspire 5,Laptop,2021,2023,Like New,Intel i5,8,512,45000.0,21500
+P0336,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Good,Snapdragon 678,4,64,15000.0,6500
+P0337,HP,Pavilion 15,Laptop,2020,2022,Good,Intel i5,8,1024,58300.0,22500
+P0338,Lenovo,ThinkPad T480,Laptop,2018,2020,Good,Intel i5,8,256,65000.0,16000
+P0339,Realme,Realme 8,Smartphone,2021,2021,Fair,Helio G95,12,256,18200.0,4000
+P0340,Apple,MacBook Air M1,Laptop,2020,2020,Poor,Apple M1,8,512,97500.0,28000
+P0341,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,8,512,48000.0,19000
+P0342,Samsung,Galaxy S21,Smartphone,2021,2022,Fair,Exynos 2100,8,256,74200.0,26000
+P0343,OnePlus,OnePlus 9,Smartphone,2021,2023,Like New,Snapdragon 888,8,128,50000.0,22000
+P0344,Apple,MacBook Air M1,Laptop,2020,2021,Fair,Apple M1,16,256,99400.0,36500
+P0345,Apple,iPhone 12,Smartphone,2020,2022,Good,A14 Bionic,4,128,65000.0,24500
+P0346,Apple,iPad 9th Gen,Tablet,2021,2021,Fair,A13 Bionic,3,64,30000.0,13000
+P0347,Dell,Latitude 5490,Laptop,2018,2019,Good,Intel i5,8,512,63600.0,17500
+P0348,HP,Pavilion 15,Laptop,2020,2020,Good,Intel i5,8,512,55000.0,20000
+P0349,Dell,Latitude 5490,Laptop,2018,2020,Fair,Intel i5,8,512,63600.0,14000
+P0350,Lenovo,ThinkPad T480,Laptop,2018,2019,Like New,Intel i5,8,512,68900.0,20000
+P0351,Samsung,Galaxy S21,Smartphone,2021,2021,Fair,Exynos 2100,8,128,70000.0,27000
+P0352,Apple,MacBook Air M1,Laptop,2020,2021,Fair,Apple M1,8,512,97500.0,31000
+P0353,Samsung,Galaxy Tab A8,Tablet,2022,2023,Good,Unisoc T618,4,64,20000.0,10500
+P0354,Samsung,Galaxy S21,Smartphone,2021,2023,Good,Exynos 2100,8,128,70000.0,31500
+P0355,Apple,iPad 9th Gen,Tablet,2021,2021,Fair,A13 Bionic,3,64,30000.0,14000
+P0356,Asus,VivoBook 15,Laptop,2021,2022,Poor,Intel i3,8,1024,50900.0,15500
+P0357,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,6,128,16000.0,7000
+P0358,Apple,iPhone 12,Smartphone,2020,2021,Good,A14 Bionic,8,256,74100.0,31000
+P0359,Asus,VivoBook 15,Laptop,2021,2021,Good,Intel i3,8,1024,50900.0,22000
+P0360,Apple,MacBook Air M1,Laptop,2020,2020,Good,Apple M1,8,256,92000.0,39000
+P0361,HP,EliteBook 840 G5,Laptop,2018,2020,Like New,Intel i5,16,256,75600.0,21000
+P0362,Samsung,Galaxy S21,Smartphone,2021,2021,Good,Exynos 2100,8,128,70000.0,40000
+P0363,Dell,Latitude 5490,Laptop,2018,2018,Poor,Intel i5,8,256,60000.0,11000
+P0364,Apple,iPad 9th Gen,Tablet,2021,2022,Fair,A13 Bionic,3,128,31800.0,12500
+P0365,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,3,64,30000.0,16500
+P0366,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Fair,Snapdragon 678,4,64,15000.0,5500
+P0367,Apple,iPhone 12,Smartphone,2020,2021,Fair,A14 Bionic,4,128,65000.0,21500
+P0368,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,512,68900.0,20000
+P0369,Acer,Aspire 5,Laptop,2021,2022,Fair,Intel i5,8,512,45000.0,18000
+P0370,Apple,iPad 9th Gen,Tablet,2021,2022,Poor,A13 Bionic,3,64,30000.0,10500
+P0371,Samsung,Galaxy Tab A8,Tablet,2022,2022,Poor,Unisoc T618,8,128,22800.0,6000
+P0372,Samsung,Galaxy Tab A8,Tablet,2022,2023,Good,Unisoc T618,4,64,20000.0,10000
+P0373,OnePlus,OnePlus 9,Smartphone,2021,2023,Fair,Snapdragon 888,8,256,53000.0,21500
+P0374,Apple,iPhone 12,Smartphone,2020,2022,Fair,A14 Bionic,4,256,68900.0,26500
+P0375,Acer,Aspire 5,Laptop,2021,2022,Poor,Intel i5,8,1024,47700.0,16000
+P0376,Samsung,Galaxy Tab A8,Tablet,2022,2023,Fair,Unisoc T618,8,64,21600.0,9000
+P0377,HP,Pavilion 15,Laptop,2020,2020,Fair,Intel i5,16,512,59400.0,16000
+P0378,HP,Pavilion 15,Laptop,2020,2022,Good,Intel i5,8,1024,58300.0,20000
+P0379,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Good,Snapdragon 678,8,64,16200.0,6500
+P0380,Asus,VivoBook 15,Laptop,2021,2022,Poor,Intel i3,16,512,51800.0,15500
+P0381,Asus,VivoBook 15,Laptop,2021,2022,Like New,Intel i3,16,1024,54700.0,25500
+P0382,Dell,Latitude 5490,Laptop,2018,2018,Like New,Intel i5,8,256,60000.0,16500
+P0383,Apple,iPhone 12,Smartphone,2020,2020,Like New,A14 Bionic,4,128,65000.0,33500
+P0384,Asus,VivoBook 15,Laptop,2021,2021,Like New,Intel i3,8,1024,50900.0,26500
+P0385,Asus,VivoBook 15,Laptop,2021,2023,Good,Intel i3,8,1024,50900.0,21500
+P0386,HP,EliteBook 840 G5,Laptop,2018,2019,Good,Intel i5,8,256,70000.0,17000
+P0387,Dell,Latitude 5490,Laptop,2018,2020,Like New,Intel i5,16,512,68400.0,20500
+P0388,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,3,128,31800.0,15000
+P0389,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,4,64,15000.0,6500
+P0390,Dell,Latitude 5490,Laptop,2018,2018,Good,Intel i5,16,256,64800.0,18000
+P0391,Lenovo,ThinkPad T480,Laptop,2018,2020,Good,Intel i5,8,256,65000.0,16500
+P0392,Samsung,Galaxy Tab A8,Tablet,2022,2023,Like New,Unisoc T618,4,128,21200.0,12500
+P0393,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Good,Snapdragon 678,4,128,15900.0,7000
+P0394,HP,EliteBook 840 G5,Laptop,2018,2018,Fair,Intel i5,8,256,70000.0,16000
+P0395,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,6,64,32400.0,15500
+P0396,Apple,iPhone 12,Smartphone,2020,2022,Like New,A14 Bionic,4,256,68900.0,29500
+P0397,Apple,iPhone 12,Smartphone,2020,2021,Fair,A14 Bionic,4,128,65000.0,22500
+P0398,Dell,Latitude 5490,Laptop,2018,2019,Good,Intel i5,16,256,64800.0,17000
+P0399,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Like New,Snapdragon 678,4,64,15000.0,8500
+P0400,Asus,VivoBook 15,Laptop,2021,2023,Poor,Intel i3,8,512,48000.0,13000
+P0401,Acer,Aspire 5,Laptop,2021,2023,Good,Intel i5,16,1024,51300.0,22500
+P0402,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,6,256,17000.0,7000
+P0403,Samsung,Galaxy S21,Smartphone,2021,2021,Like New,Exynos 2100,8,128,70000.0,28500
+P0404,Realme,Realme 8,Smartphone,2021,2021,Like New,Helio G95,6,128,16000.0,7500
+P0405,Samsung,Galaxy Tab A8,Tablet,2022,2022,Like New,Unisoc T618,4,64,20000.0,11500
+P0406,Asus,VivoBook 15,Laptop,2021,2023,Poor,Intel i3,16,512,51800.0,16000
+P0407,Samsung,Galaxy Tab A8,Tablet,2022,2024,Fair,Unisoc T618,4,64,20000.0,9500
+P0408,HP,EliteBook 840 G5,Laptop,2018,2020,Fair,Intel i5,8,256,70000.0,17000
+P0409,HP,Pavilion 15,Laptop,2020,2022,Fair,Intel i5,8,1024,58300.0,16500
+P0410,Dell,Latitude 5490,Laptop,2018,2020,Fair,Intel i5,8,512,63600.0,16000
+P0411,Asus,VivoBook 15,Laptop,2021,2021,Good,Intel i3,8,1024,50900.0,22500
+P0412,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,8,1024,58300.0,21000
+P0413,Apple,iPad 9th Gen,Tablet,2021,2022,Good,A13 Bionic,6,128,34200.0,17000
+P0414,HP,Pavilion 15,Laptop,2020,2021,Like New,Intel i5,8,512,55000.0,25500
+P0415,Apple,iPhone 12,Smartphone,2020,2022,Good,A14 Bionic,4,128,65000.0,31500
+P0416,HP,Pavilion 15,Laptop,2020,2022,Like New,Intel i5,16,512,59400.0,24000
+P0417,Apple,MacBook Air M1,Laptop,2020,2021,Good,Apple M1,16,256,99400.0,40500
+P0418,Asus,VivoBook 15,Laptop,2021,2023,Like New,Intel i3,8,512,48000.0,21000
+P0419,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,256,65000.0,17500
+P0420,Acer,Aspire 5,Laptop,2021,2023,Like New,Intel i5,16,512,48600.0,23500
+P0421,Asus,VivoBook 15,Laptop,2021,2022,Like New,Intel i3,16,512,51800.0,23000
+P0422,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Good,Snapdragon 678,4,64,15000.0,5000
+P0423,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,4,64,20000.0,10000
+P0424,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,8,1024,58300.0,13500
+P0425,Samsung,Galaxy S21,Smartphone,2021,2021,Poor,Exynos 2100,8,128,70000.0,19000
+P0426,HP,Pavilion 15,Laptop,2020,2020,Good,Intel i5,8,1024,58300.0,22000
+P0427,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,6,128,16000.0,7000
+P0428,OnePlus,OnePlus 9,Smartphone,2021,2022,Good,Snapdragon 888,8,128,50000.0,20000
+P0429,Samsung,Galaxy Tab A8,Tablet,2022,2023,Good,Unisoc T618,8,64,21600.0,12000
+P0430,Dell,Latitude 5490,Laptop,2018,2020,Like New,Intel i5,16,512,68400.0,18500
+P0431,Apple,iPhone 12,Smartphone,2020,2021,Like New,A14 Bionic,8,256,74100.0,32000
+P0432,OnePlus,OnePlus 9,Smartphone,2021,2022,Fair,Snapdragon 888,16,128,54000.0,18500
+P0433,Apple,iPad 9th Gen,Tablet,2021,2023,Fair,A13 Bionic,3,64,30000.0,16500
+P0434,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,6,64,32400.0,14500
+P0435,HP,EliteBook 840 G5,Laptop,2018,2019,Like New,Intel i5,8,256,70000.0,19500
+P0436,Apple,iPad 9th Gen,Tablet,2021,2021,Poor,A13 Bionic,3,64,30000.0,9500
+P0437,OnePlus,OnePlus 9,Smartphone,2021,2021,Like New,Snapdragon 888,8,128,50000.0,16500
+P0438,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,16,512,51800.0,24000
+P0439,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,6,128,16000.0,7000
+P0440,Realme,Realme 8,Smartphone,2021,2022,Like New,Helio G95,6,128,16000.0,8000
+P0441,Apple,MacBook Air M1,Laptop,2020,2022,Good,Apple M1,8,256,92000.0,23500
+P0442,Dell,Latitude 5490,Laptop,2018,2018,Poor,Intel i5,8,256,60000.0,12500
+P0443,HP,EliteBook 840 G5,Laptop,2018,2018,Good,Intel i5,8,256,70000.0,19500
+P0444,Acer,Aspire 5,Laptop,2021,2021,Fair,Intel i5,16,512,48600.0,21500
+P0445,Apple,iPad 9th Gen,Tablet,2021,2023,Like New,A13 Bionic,3,64,30000.0,17500
+P0446,Lenovo,ThinkPad T480,Laptop,2018,2020,Like New,Intel i5,8,512,68900.0,10500
+P0447,Apple,iPhone 12,Smartphone,2020,2020,Good,A14 Bionic,8,256,74100.0,31500
+P0448,Apple,iPad 9th Gen,Tablet,2021,2022,Poor,A13 Bionic,3,64,30000.0,11000
+P0449,Samsung,Galaxy Tab A8,Tablet,2022,2023,Fair,Unisoc T618,4,64,20000.0,9000
+P0450,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,4,128,15900.0,6500
+P0451,Acer,Aspire 5,Laptop,2021,2021,Good,Intel i5,8,1024,47700.0,17500
+P0452,Realme,Realme 8,Smartphone,2021,2022,Like New,Helio G95,12,128,17300.0,8500
+P0453,Dell,Latitude 5490,Laptop,2018,2018,Like New,Intel i5,8,256,60000.0,16500
+P0454,HP,EliteBook 840 G5,Laptop,2018,2018,Fair,Intel i5,16,256,75600.0,18000
+P0455,Asus,VivoBook 15,Laptop,2021,2022,Like New,Intel i3,16,1024,54700.0,27000
+P0456,Samsung,Galaxy Tab A8,Tablet,2022,2022,Like New,Unisoc T618,4,64,20000.0,11500
+P0457,Apple,MacBook Air M1,Laptop,2020,2022,Fair,Apple M1,16,512,104900.0,35000
+P0458,Apple,iPhone 12,Smartphone,2020,2020,Good,A14 Bionic,4,256,68900.0,32000
+P0459,Apple,iPad 9th Gen,Tablet,2021,2022,Good,A13 Bionic,6,64,32400.0,19000
+P0460,Acer,Aspire 5,Laptop,2021,2022,Like New,Intel i5,8,1024,47700.0,23500
+P0461,Dell,Latitude 5490,Laptop,2018,2020,Like New,Intel i5,8,512,63600.0,17500
+P0462,Dell,Latitude 5490,Laptop,2018,2020,Good,Intel i5,8,256,60000.0,15500
+P0463,Apple,iPad 9th Gen,Tablet,2021,2022,Good,A13 Bionic,6,128,34200.0,17500
+P0464,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,256,65000.0,16500
+P0465,HP,Pavilion 15,Laptop,2020,2020,Good,Intel i5,8,512,55000.0,18500
+P0466,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,256,65000.0,17500
+P0467,Samsung,Galaxy S21,Smartphone,2021,2022,Fair,Exynos 2100,16,128,75600.0,27000
+P0468,Dell,Latitude 5490,Laptop,2018,2019,Fair,Intel i5,8,512,63600.0,19500
+P0469,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Good,Snapdragon 678,8,128,17100.0,7000
+P0470,Samsung,Galaxy S21,Smartphone,2021,2022,Fair,Exynos 2100,16,256,79800.0,19500
+P0471,HP,EliteBook 840 G5,Laptop,2018,2020,Good,Intel i5,8,512,74200.0,21500
+P0472,Apple,MacBook Air M1,Laptop,2020,2022,Good,Apple M1,8,256,92000.0,37500
+P0473,Samsung,Galaxy S21,Smartphone,2021,2022,Poor,Exynos 2100,8,256,74200.0,17000
+P0474,Apple,iPhone 12,Smartphone,2020,2022,Good,A14 Bionic,8,128,70200.0,26000
+P0475,HP,Pavilion 15,Laptop,2020,2020,Like New,Intel i5,16,1024,62700.0,26000
+P0476,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,512,68900.0,17000
+P0477,Apple,MacBook Air M1,Laptop,2020,2020,Fair,Apple M1,8,512,97500.0,35000
+P0478,Apple,iPad 9th Gen,Tablet,2021,2021,Like New,A13 Bionic,3,128,31800.0,19000
+P0479,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Like New,Snapdragon 678,4,64,15000.0,7000
+P0480,Samsung,Galaxy Tab A8,Tablet,2022,2023,Good,Unisoc T618,8,64,21600.0,11000
+P0481,Apple,iPhone 12,Smartphone,2020,2022,Good,A14 Bionic,4,128,65000.0,27500
+P0482,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,8,1024,50900.0,23000
+P0483,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,6,128,16000.0,7000
+P0484,Samsung,Galaxy S21,Smartphone,2021,2021,Good,Exynos 2100,8,256,74200.0,37000
+P0485,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Fair,Snapdragon 678,8,64,16200.0,6500
+P0486,Apple,MacBook Air M1,Laptop,2020,2020,Good,Apple M1,8,512,97500.0,43000
+P0487,Apple,MacBook Air M1,Laptop,2020,2021,Good,Apple M1,8,512,97500.0,55000
+P0488,Lenovo,ThinkPad T480,Laptop,2018,2019,Fair,Intel i5,8,256,65000.0,15500
+P0489,Realme,Realme 8,Smartphone,2021,2023,Fair,Helio G95,6,256,17000.0,9500
+P0490,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Good,Snapdragon 678,4,64,15000.0,7000
+P0491,HP,EliteBook 840 G5,Laptop,2018,2019,Fair,Intel i5,8,256,70000.0,16000
+P0492,Apple,iPad 9th Gen,Tablet,2021,2021,Poor,A13 Bionic,3,128,31800.0,10000
+P0493,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,8,64,21600.0,10500
+P0494,OnePlus,OnePlus 9,Smartphone,2021,2021,Like New,Snapdragon 888,16,128,54000.0,29000
+P0495,Realme,Realme 8,Smartphone,2021,2022,Fair,Helio G95,6,128,16000.0,6000
+P0496,Asus,VivoBook 15,Laptop,2021,2021,Good,Intel i3,16,512,51800.0,23500
+P0497,Apple,iPhone 12,Smartphone,2020,2022,Fair,A14 Bionic,8,256,74100.0,29500
+P0498,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,16,256,79800.0,35000
+P0499,Lenovo,ThinkPad T480,Laptop,2018,2018,Like New,Intel i5,8,512,68900.0,21500
+P0500,Apple,iPhone 12,Smartphone,2020,2021,Good,A14 Bionic,4,256,68900.0,26500
+P0501,Apple,MacBook Air M1,Laptop,2020,2020,Fair,Apple M1,16,256,99400.0,36000
+P0502,Asus,VivoBook 15,Laptop,2021,2021,Fair,Intel i3,16,512,51800.0,21500
+P0503,Lenovo,ThinkPad T480,Laptop,2018,2020,Poor,Intel i5,8,256,65000.0,12500
+P0504,Acer,Aspire 5,Laptop,2021,2022,Poor,Intel i5,16,512,48600.0,15500
+P0505,Apple,iPhone 12,Smartphone,2020,2020,Fair,A14 Bionic,4,256,68900.0,25000
+P0506,Apple,iPhone 12,Smartphone,2020,2021,Fair,A14 Bionic,4,128,65000.0,32500
+P0507,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,8,128,70000.0,28500
+P0508,HP,Pavilion 15,Laptop,2020,2022,Fair,Intel i5,8,512,55000.0,16500
+P0509,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Like New,Snapdragon 678,4,128,15900.0,7500
+P0510,Samsung,Galaxy S21,Smartphone,2021,2021,Fair,Exynos 2100,8,128,70000.0,26500
+P0511,Apple,MacBook Air M1,Laptop,2020,2020,Fair,Apple M1,8,256,92000.0,26500
+P0512,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,12,256,18200.0,7500
+P0513,Lenovo,ThinkPad T480,Laptop,2018,2020,Good,Intel i5,8,256,65000.0,16000
+P0514,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,12,128,17300.0,7500
+P0515,Samsung,Galaxy Tab A8,Tablet,2022,2023,Poor,Unisoc T618,4,64,20000.0,7500
+P0516,Apple,iPhone 12,Smartphone,2020,2022,Good,A14 Bionic,4,256,68900.0,27000
+P0517,Apple,MacBook Air M1,Laptop,2020,2022,Like New,Apple M1,16,512,104900.0,46500
+P0518,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,3,128,31800.0,17500
+P0519,Samsung,Galaxy S21,Smartphone,2021,2021,Good,Exynos 2100,8,256,74200.0,35500
+P0520,Samsung,Galaxy Tab A8,Tablet,2022,2024,Like New,Unisoc T618,4,64,20000.0,11000
+P0521,HP,Pavilion 15,Laptop,2020,2020,Like New,Intel i5,16,512,59400.0,14500
+P0522,Realme,Realme 8,Smartphone,2021,2022,Fair,Helio G95,6,128,16000.0,6500
+P0523,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,6,256,17000.0,7000
+P0524,OnePlus,OnePlus 9,Smartphone,2021,2022,Like New,Snapdragon 888,8,128,50000.0,24000
+P0525,Samsung,Galaxy Tab A8,Tablet,2022,2022,Poor,Unisoc T618,4,128,21200.0,7500
+P0526,HP,EliteBook 840 G5,Laptop,2018,2019,Fair,Intel i5,8,256,70000.0,15500
+P0527,Asus,VivoBook 15,Laptop,2021,2022,Like New,Intel i3,8,512,48000.0,21000
+P0528,Dell,Latitude 5490,Laptop,2018,2020,Good,Intel i5,8,256,60000.0,15000
+P0529,OnePlus,OnePlus 9,Smartphone,2021,2022,Good,Snapdragon 888,8,256,53000.0,20500
+P0530,Realme,Realme 8,Smartphone,2021,2021,Fair,Helio G95,6,256,17000.0,6500
+P0531,Samsung,Galaxy S21,Smartphone,2021,2022,Fair,Exynos 2100,8,256,74200.0,17500
+P0532,Apple,MacBook Air M1,Laptop,2020,2020,Fair,Apple M1,8,256,92000.0,36000
+P0533,Lenovo,ThinkPad T480,Laptop,2018,2020,Fair,Intel i5,8,256,65000.0,9000
+P0534,Samsung,Galaxy S21,Smartphone,2021,2023,Poor,Exynos 2100,8,128,70000.0,34000
+P0535,Samsung,Galaxy Tab A8,Tablet,2022,2023,Good,Unisoc T618,8,64,21600.0,10500
+P0536,Dell,Latitude 5490,Laptop,2018,2019,Good,Intel i5,8,512,63600.0,17500
+P0537,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,8,1024,50900.0,16500
+P0538,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,16,512,59400.0,14500
+P0539,Samsung,Galaxy S21,Smartphone,2021,2022,Fair,Exynos 2100,8,128,70000.0,29000
+P0540,Apple,MacBook Air M1,Laptop,2020,2021,Good,Apple M1,16,256,99400.0,43000
+P0541,OnePlus,OnePlus 9,Smartphone,2021,2021,Like New,Snapdragon 888,8,128,50000.0,23000
+P0542,Realme,Realme 8,Smartphone,2021,2022,Poor,Helio G95,6,128,16000.0,5000
+P0543,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,3,64,30000.0,14000
+P0544,Dell,Latitude 5490,Laptop,2018,2019,Good,Intel i5,8,256,60000.0,15500
+P0545,HP,EliteBook 840 G5,Laptop,2018,2019,Good,Intel i5,8,256,70000.0,19000
+P0546,Acer,Aspire 5,Laptop,2021,2023,Like New,Intel i5,8,512,45000.0,21000
+P0547,Apple,iPad 9th Gen,Tablet,2021,2022,Good,A13 Bionic,6,64,32400.0,11000
+P0548,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,8,128,70000.0,30500
+P0549,Samsung,Galaxy Tab A8,Tablet,2022,2022,Good,Unisoc T618,4,64,20000.0,10500
+P0550,Samsung,Galaxy Tab A8,Tablet,2022,2024,Fair,Unisoc T618,4,64,20000.0,8500
+P0551,HP,EliteBook 840 G5,Laptop,2018,2020,Like New,Intel i5,8,256,70000.0,31000
+P0552,Apple,iPhone 12,Smartphone,2020,2020,Fair,A14 Bionic,4,256,68900.0,23500
+P0553,Apple,MacBook Air M1,Laptop,2020,2021,Good,Apple M1,16,256,99400.0,38000
+P0554,Samsung,Galaxy S21,Smartphone,2021,2022,Fair,Exynos 2100,8,256,74200.0,29000
+P0555,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Good,Snapdragon 678,4,128,15900.0,7000
+P0556,Realme,Realme 8,Smartphone,2021,2023,Like New,Helio G95,6,128,16000.0,7500
+P0557,Dell,Latitude 5490,Laptop,2018,2020,Poor,Intel i5,8,256,60000.0,11000
+P0558,Dell,Latitude 5490,Laptop,2018,2018,Poor,Intel i5,16,256,64800.0,11500
+P0559,OnePlus,OnePlus 9,Smartphone,2021,2021,Good,Snapdragon 888,8,128,50000.0,20500
+P0560,OnePlus,OnePlus 9,Smartphone,2021,2021,Good,Snapdragon 888,16,256,57000.0,24500
+P0561,Asus,VivoBook 15,Laptop,2021,2021,Good,Intel i3,8,1024,50900.0,23500
+P0562,HP,EliteBook 840 G5,Laptop,2018,2018,Poor,Intel i5,8,256,70000.0,13000
+P0563,HP,EliteBook 840 G5,Laptop,2018,2020,Fair,Intel i5,8,512,74200.0,17000
+P0564,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,6,256,17000.0,8500
+P0565,HP,Pavilion 15,Laptop,2020,2021,Like New,Intel i5,8,1024,58300.0,21000
+P0566,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,6,64,32400.0,16000
+P0567,Realme,Realme 8,Smartphone,2021,2021,Poor,Helio G95,6,128,16000.0,5500
+P0568,Samsung,Galaxy S21,Smartphone,2021,2021,Fair,Exynos 2100,8,128,70000.0,29000
+P0569,OnePlus,OnePlus 9,Smartphone,2021,2021,Like New,Snapdragon 888,8,128,50000.0,23500
+P0570,Asus,VivoBook 15,Laptop,2021,2023,Fair,Intel i3,16,512,51800.0,20000
+P0571,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Good,Snapdragon 678,8,64,16200.0,7000
+P0572,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,8,128,70000.0,30000
+P0573,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,12,128,17300.0,10000
+P0574,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,4,128,21200.0,11500
+P0575,Lenovo,ThinkPad T480,Laptop,2018,2020,Poor,Intel i5,16,256,70200.0,13500
+P0576,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Good,Snapdragon 678,4,128,15900.0,6500
+P0577,Samsung,Galaxy S21,Smartphone,2021,2023,Like New,Exynos 2100,8,256,74200.0,35500
+P0578,OnePlus,OnePlus 9,Smartphone,2021,2021,Good,Snapdragon 888,16,128,54000.0,26000
+P0579,HP,EliteBook 840 G5,Laptop,2018,2018,Good,Intel i5,8,256,70000.0,18000
+P0580,Apple,MacBook Air M1,Laptop,2020,2021,Good,Apple M1,8,256,92000.0,45000
+P0581,HP,EliteBook 840 G5,Laptop,2018,2018,Poor,Intel i5,8,256,70000.0,15000
+P0582,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,6,256,17000.0,8000
+P0583,Samsung,Galaxy S21,Smartphone,2021,2021,Like New,Exynos 2100,8,128,70000.0,32000
+P0584,OnePlus,OnePlus 9,Smartphone,2021,2022,Good,Snapdragon 888,8,128,50000.0,23000
+P0585,HP,Pavilion 15,Laptop,2020,2020,Poor,Intel i5,8,1024,58300.0,14000
+P0586,Realme,Realme 8,Smartphone,2021,2021,Like New,Helio G95,12,128,17300.0,8000
+P0587,Acer,Aspire 5,Laptop,2021,2023,Poor,Intel i5,8,512,45000.0,14000
+P0588,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,4,64,15000.0,6500
+P0589,HP,EliteBook 840 G5,Laptop,2018,2019,Fair,Intel i5,16,256,75600.0,18500
+P0590,OnePlus,OnePlus 9,Smartphone,2021,2023,Fair,Snapdragon 888,8,128,50000.0,18500
+P0591,Apple,MacBook Air M1,Laptop,2020,2022,Good,Apple M1,16,256,99400.0,44000
+P0592,HP,Pavilion 15,Laptop,2020,2021,Like New,Intel i5,8,512,55000.0,20000
+P0593,OnePlus,OnePlus 9,Smartphone,2021,2023,Like New,Snapdragon 888,8,256,53000.0,27000
+P0594,Lenovo,ThinkPad T480,Laptop,2018,2018,Like New,Intel i5,8,512,68900.0,19500
+P0595,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Poor,Snapdragon 678,4,64,15000.0,5000
+P0596,Lenovo,ThinkPad T480,Laptop,2018,2018,Fair,Intel i5,8,512,68900.0,9000
+P0597,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,6,128,16000.0,4500
+P0598,Samsung,Galaxy Tab A8,Tablet,2022,2022,Like New,Unisoc T618,4,128,21200.0,13000
+P0599,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Like New,Snapdragon 678,4,64,15000.0,6500
+P0600,Dell,Latitude 5490,Laptop,2018,2019,Fair,Intel i5,8,512,63600.0,8500
+P0601,OnePlus,OnePlus 9,Smartphone,2021,2022,Poor,Snapdragon 888,8,128,50000.0,15500
+P0602,Realme,Realme 8,Smartphone,2021,2021,Like New,Helio G95,6,128,16000.0,8500
+P0603,HP,EliteBook 840 G5,Laptop,2018,2018,Like New,Intel i5,8,256,70000.0,19500
+P0604,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,16,512,59400.0,16500
+P0605,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Poor,Snapdragon 678,4,128,15900.0,5000
+P0606,OnePlus,OnePlus 9,Smartphone,2021,2021,Like New,Snapdragon 888,8,128,50000.0,21500
+P0607,Dell,Latitude 5490,Laptop,2018,2020,Fair,Intel i5,8,512,63600.0,14000
+P0608,Samsung,Galaxy S21,Smartphone,2021,2023,Like New,Exynos 2100,8,128,70000.0,32000
+P0609,Apple,MacBook Air M1,Laptop,2020,2020,Fair,Apple M1,8,512,97500.0,36000
+P0610,OnePlus,OnePlus 9,Smartphone,2021,2021,Like New,Snapdragon 888,16,256,57000.0,25500
+P0611,OnePlus,OnePlus 9,Smartphone,2021,2022,Good,Snapdragon 888,8,128,50000.0,20500
+P0612,Dell,Latitude 5490,Laptop,2018,2018,Good,Intel i5,8,512,63600.0,15500
+P0613,Asus,VivoBook 15,Laptop,2021,2023,Poor,Intel i3,16,512,51800.0,14500
+P0614,Asus,VivoBook 15,Laptop,2021,2022,Fair,Intel i3,8,512,48000.0,19000
+P0615,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,3,64,30000.0,15000
+P0616,HP,Pavilion 15,Laptop,2020,2020,Good,Intel i5,8,512,55000.0,11500
+P0617,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,512,68900.0,16500
+P0618,Asus,VivoBook 15,Laptop,2021,2021,Poor,Intel i3,16,512,51800.0,14500
+P0619,OnePlus,OnePlus 9,Smartphone,2021,2023,Fair,Snapdragon 888,16,128,54000.0,22000
+P0620,Dell,Latitude 5490,Laptop,2018,2018,Fair,Intel i5,8,512,63600.0,15000
+P0621,Dell,Latitude 5490,Laptop,2018,2018,Good,Intel i5,8,256,60000.0,15500
+P0622,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,256,65000.0,15000
+P0623,Apple,iPhone 12,Smartphone,2020,2021,Poor,A14 Bionic,4,128,65000.0,19500
+P0624,Apple,iPad 9th Gen,Tablet,2021,2021,Poor,A13 Bionic,3,64,30000.0,10000
+P0625,Apple,iPad 9th Gen,Tablet,2021,2023,Like New,A13 Bionic,6,64,32400.0,22000
+P0626,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,8,128,22800.0,7000
+P0627,Dell,Latitude 5490,Laptop,2018,2018,Like New,Intel i5,8,512,63600.0,18500
+P0628,Dell,Latitude 5490,Laptop,2018,2019,Fair,Intel i5,16,256,64800.0,15000
+P0629,Apple,iPad 9th Gen,Tablet,2021,2021,Poor,A13 Bionic,3,64,30000.0,13500
+P0630,Asus,VivoBook 15,Laptop,2021,2023,Fair,Intel i3,8,512,48000.0,18500
+P0631,Asus,VivoBook 15,Laptop,2021,2021,Like New,Intel i3,16,1024,54700.0,25500
+P0632,Dell,Latitude 5490,Laptop,2018,2020,Good,Intel i5,16,512,68400.0,9500
+P0633,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,256,65000.0,16000
+P0634,Apple,iPhone 12,Smartphone,2020,2022,Good,A14 Bionic,8,128,70200.0,27500
+P0635,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,3,64,30000.0,13500
+P0636,Acer,Aspire 5,Laptop,2021,2022,Fair,Intel i5,8,512,45000.0,16000
+P0637,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,256,65000.0,17000
+P0638,Apple,iPhone 12,Smartphone,2020,2022,Good,A14 Bionic,4,128,65000.0,33500
+P0639,OnePlus,OnePlus 9,Smartphone,2021,2021,Fair,Snapdragon 888,8,128,50000.0,18000
+P0640,Apple,iPhone 12,Smartphone,2020,2020,Like New,A14 Bionic,4,128,65000.0,32000
+P0641,OnePlus,OnePlus 9,Smartphone,2021,2023,Poor,Snapdragon 888,8,128,50000.0,16000
+P0642,Dell,Latitude 5490,Laptop,2018,2019,Like New,Intel i5,16,256,64800.0,19500
+P0643,HP,Pavilion 15,Laptop,2020,2022,Fair,Intel i5,16,512,59400.0,18500
+P0644,Apple,iPad 9th Gen,Tablet,2021,2021,Fair,A13 Bionic,3,128,31800.0,14000
+P0645,Apple,iPhone 12,Smartphone,2020,2020,Good,A14 Bionic,4,128,65000.0,24000
+P0646,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Fair,Snapdragon 678,4,64,15000.0,5000
+P0647,Dell,Latitude 5490,Laptop,2018,2018,Good,Intel i5,8,256,60000.0,14500
+P0648,OnePlus,OnePlus 9,Smartphone,2021,2023,Good,Snapdragon 888,16,128,54000.0,22500
+P0649,HP,Pavilion 15,Laptop,2020,2020,Good,Intel i5,8,1024,58300.0,19500
+P0650,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,8,512,55000.0,25000
+P0651,Asus,VivoBook 15,Laptop,2021,2021,Fair,Intel i3,8,1024,50900.0,17000
+P0652,Asus,VivoBook 15,Laptop,2021,2021,Like New,Intel i3,16,512,51800.0,25500
+P0653,Lenovo,ThinkPad T480,Laptop,2018,2018,Poor,Intel i5,8,512,68900.0,13000
+P0654,Lenovo,ThinkPad T480,Laptop,2018,2019,Like New,Intel i5,8,512,68900.0,19500
+P0655,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,8,512,48000.0,18000
+P0656,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,8,512,48000.0,19500
+P0657,Acer,Aspire 5,Laptop,2021,2021,Poor,Intel i5,16,1024,51300.0,16500
+P0658,Samsung,Galaxy Tab A8,Tablet,2022,2024,Fair,Unisoc T618,4,128,21200.0,10000
+P0659,Apple,iPhone 12,Smartphone,2020,2022,Fair,A14 Bionic,4,256,68900.0,25000
+P0660,HP,EliteBook 840 G5,Laptop,2018,2019,Like New,Intel i5,8,256,70000.0,18500
+P0661,Realme,Realme 8,Smartphone,2021,2023,Fair,Helio G95,6,128,16000.0,9500
+P0662,Lenovo,ThinkPad T480,Laptop,2018,2019,Fair,Intel i5,8,512,68900.0,16000
+P0663,Apple,iPhone 12,Smartphone,2020,2022,Poor,A14 Bionic,8,128,70200.0,23000
+P0664,Apple,iPad 9th Gen,Tablet,2021,2022,Like New,A13 Bionic,6,128,34200.0,17500
+P0665,Apple,iPhone 12,Smartphone,2020,2022,Like New,A14 Bionic,4,128,65000.0,29500
+P0666,Samsung,Galaxy Tab A8,Tablet,2022,2022,Like New,Unisoc T618,4,128,21200.0,11500
+P0667,HP,Pavilion 15,Laptop,2020,2020,Good,Intel i5,8,1024,58300.0,22000
+P0668,Asus,VivoBook 15,Laptop,2021,2021,Good,Intel i3,16,512,51800.0,22500
+P0669,Asus,VivoBook 15,Laptop,2021,2022,Fair,Intel i3,16,1024,54700.0,18500
+P0670,OnePlus,OnePlus 9,Smartphone,2021,2022,Poor,Snapdragon 888,8,128,50000.0,17000
+P0671,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,16,512,59400.0,21000
+P0672,Lenovo,ThinkPad T480,Laptop,2018,2019,Poor,Intel i5,16,512,74100.0,12000
+P0673,Apple,iPhone 12,Smartphone,2020,2021,Poor,A14 Bionic,8,128,70200.0,22500
+P0674,Asus,VivoBook 15,Laptop,2021,2023,Good,Intel i3,16,1024,54700.0,24500
+P0675,HP,EliteBook 840 G5,Laptop,2018,2018,Good,Intel i5,16,512,79800.0,19000
+P0676,Samsung,Galaxy S21,Smartphone,2021,2023,Good,Exynos 2100,8,128,70000.0,22500
+P0677,Acer,Aspire 5,Laptop,2021,2023,Poor,Intel i5,8,1024,47700.0,15000
+P0678,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,12,256,18200.0,7000
+P0679,Realme,Realme 8,Smartphone,2021,2022,Like New,Helio G95,6,128,16000.0,7500
+P0680,Samsung,Galaxy Tab A8,Tablet,2022,2022,Like New,Unisoc T618,8,64,21600.0,12500
+P0681,Apple,iPhone 12,Smartphone,2020,2020,Like New,A14 Bionic,8,128,70200.0,30000
+P0682,Apple,MacBook Air M1,Laptop,2020,2021,Good,Apple M1,8,256,92000.0,38000
+P0683,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,8,256,74200.0,33000
+P0684,HP,EliteBook 840 G5,Laptop,2018,2020,Good,Intel i5,8,256,70000.0,17000
+P0685,HP,Pavilion 15,Laptop,2020,2020,Fair,Intel i5,8,512,55000.0,17000
+P0686,OnePlus,OnePlus 9,Smartphone,2021,2022,Poor,Snapdragon 888,8,128,50000.0,16000
+P0687,Samsung,Galaxy S21,Smartphone,2021,2021,Fair,Exynos 2100,8,128,70000.0,28000
+P0688,Apple,MacBook Air M1,Laptop,2020,2020,Like New,Apple M1,8,256,92000.0,24500
+P0689,Apple,MacBook Air M1,Laptop,2020,2020,Fair,Apple M1,8,256,92000.0,35500
+P0690,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,3,64,30000.0,15500
+P0691,Apple,iPad 9th Gen,Tablet,2021,2023,Like New,A13 Bionic,3,128,31800.0,15000
+P0692,HP,Pavilion 15,Laptop,2020,2022,Good,Intel i5,16,512,59400.0,22500
+P0693,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,8,1024,50900.0,25000
+P0694,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Fair,Snapdragon 678,4,64,15000.0,5500
+P0695,Apple,iPad 9th Gen,Tablet,2021,2021,Like New,A13 Bionic,3,64,30000.0,19500
+P0696,Samsung,Galaxy Tab A8,Tablet,2022,2023,Like New,Unisoc T618,4,128,21200.0,12500
+P0697,Acer,Aspire 5,Laptop,2021,2022,Good,Intel i5,16,512,48600.0,22000
+P0698,Samsung,Galaxy S21,Smartphone,2021,2022,Fair,Exynos 2100,8,256,74200.0,29000
+P0699,Samsung,Galaxy S21,Smartphone,2021,2021,Good,Exynos 2100,8,128,70000.0,30000
+P0700,Acer,Aspire 5,Laptop,2021,2023,Like New,Intel i5,8,1024,47700.0,23000
+P0701,Apple,MacBook Air M1,Laptop,2020,2021,Fair,Apple M1,16,512,104900.0,41000
+P0702,Samsung,Galaxy Tab A8,Tablet,2022,2024,Fair,Unisoc T618,8,64,21600.0,10500
+P0703,Acer,Aspire 5,Laptop,2021,2023,Good,Intel i5,16,1024,51300.0,21500
+P0704,OnePlus,OnePlus 9,Smartphone,2021,2022,Fair,Snapdragon 888,16,128,54000.0,20500
+P0705,Samsung,Galaxy S21,Smartphone,2021,2023,Fair,Exynos 2100,8,128,70000.0,25000
+P0706,HP,Pavilion 15,Laptop,2020,2021,Like New,Intel i5,8,512,55000.0,24000
+P0707,HP,Pavilion 15,Laptop,2020,2022,Good,Intel i5,16,1024,62700.0,24000
+P0708,Lenovo,ThinkPad T480,Laptop,2018,2019,Like New,Intel i5,16,512,74100.0,19500
+P0709,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,6,128,34200.0,17000
+P0710,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Good,Snapdragon 678,4,64,15000.0,5500
+P0711,Apple,MacBook Air M1,Laptop,2020,2022,Like New,Apple M1,8,256,92000.0,36500
+P0712,Acer,Aspire 5,Laptop,2021,2021,Like New,Intel i5,8,512,45000.0,20000
+P0713,Apple,MacBook Air M1,Laptop,2020,2021,Good,Apple M1,8,256,92000.0,37000
+P0714,Acer,Aspire 5,Laptop,2021,2023,Fair,Intel i5,16,512,48600.0,22000
+P0715,Samsung,Galaxy S21,Smartphone,2021,2023,Poor,Exynos 2100,8,256,74200.0,21000
+P0716,Apple,MacBook Air M1,Laptop,2020,2020,Good,Apple M1,16,256,99400.0,38500
+P0717,Apple,iPhone 12,Smartphone,2020,2021,Fair,A14 Bionic,4,256,68900.0,24000
+P0718,Lenovo,ThinkPad T480,Laptop,2018,2018,Good,Intel i5,8,512,68900.0,17500
+P0719,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,16,512,59400.0,21500
+P0720,Dell,Latitude 5490,Laptop,2018,2018,Like New,Intel i5,8,256,60000.0,17500
+P0721,Realme,Realme 8,Smartphone,2021,2023,Fair,Helio G95,6,128,16000.0,6500
+P0722,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,3,64,30000.0,15000
+P0723,Dell,Latitude 5490,Laptop,2018,2020,Fair,Intel i5,8,256,60000.0,13000
+P0724,Dell,Latitude 5490,Laptop,2018,2018,Fair,Intel i5,8,256,60000.0,13000
+P0725,Dell,Latitude 5490,Laptop,2018,2020,Good,Intel i5,8,512,63600.0,17000
+P0726,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,4,64,15000.0,6000
+P0727,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,4,128,21200.0,11500
+P0728,Apple,iPhone 12,Smartphone,2020,2021,Poor,A14 Bionic,4,128,65000.0,19000
+P0729,Samsung,Galaxy S21,Smartphone,2021,2021,Good,Exynos 2100,16,128,75600.0,34000
+P0730,Samsung,Galaxy Tab A8,Tablet,2022,2023,Good,Unisoc T618,4,128,21200.0,11500
+P0731,HP,EliteBook 840 G5,Laptop,2018,2020,Like New,Intel i5,8,512,74200.0,27000
+P0732,Samsung,Galaxy Tab A8,Tablet,2022,2022,Good,Unisoc T618,4,64,20000.0,9000
+P0733,Apple,MacBook Air M1,Laptop,2020,2020,Good,Apple M1,8,256,92000.0,43500
+P0734,Dell,Latitude 5490,Laptop,2018,2018,Like New,Intel i5,8,256,60000.0,16500
+P0735,Samsung,Galaxy Tab A8,Tablet,2022,2023,Poor,Unisoc T618,4,128,21200.0,7000
+P0736,OnePlus,OnePlus 9,Smartphone,2021,2021,Poor,Snapdragon 888,8,128,50000.0,16500
+P0737,Realme,Realme 8,Smartphone,2021,2022,Fair,Helio G95,6,128,16000.0,6000
+P0738,Apple,iPhone 12,Smartphone,2020,2020,Good,A14 Bionic,8,128,70200.0,29000
+P0739,Acer,Aspire 5,Laptop,2021,2023,Fair,Intel i5,8,512,45000.0,16500
+P0740,OnePlus,OnePlus 9,Smartphone,2021,2022,Fair,Snapdragon 888,8,256,53000.0,20000
+P0741,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,3,64,30000.0,14500
+P0742,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,3,64,30000.0,15000
+P0743,Apple,iPhone 12,Smartphone,2020,2020,Fair,A14 Bionic,4,128,65000.0,23500
+P0744,Asus,VivoBook 15,Laptop,2021,2023,Good,Intel i3,8,512,48000.0,20500
+P0745,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,6,128,16000.0,7000
+P0746,Apple,iPhone 12,Smartphone,2020,2020,Good,A14 Bionic,4,128,65000.0,19000
+P0747,Realme,Realme 8,Smartphone,2021,2022,Like New,Helio G95,6,128,16000.0,7500
+P0748,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Good,Snapdragon 678,4,128,15900.0,7000
+P0749,Samsung,Galaxy S21,Smartphone,2021,2023,Like New,Exynos 2100,16,256,79800.0,33500
+P0750,Dell,Latitude 5490,Laptop,2018,2018,Good,Intel i5,16,512,68400.0,18500
+P0751,Dell,Latitude 5490,Laptop,2018,2018,Good,Intel i5,16,512,68400.0,16000
+P0752,OnePlus,OnePlus 9,Smartphone,2021,2022,Like New,Snapdragon 888,8,128,50000.0,21500
+P0753,Samsung,Galaxy Tab A8,Tablet,2022,2022,Like New,Unisoc T618,4,128,21200.0,8500
+P0754,OnePlus,OnePlus 9,Smartphone,2021,2021,Good,Snapdragon 888,8,128,50000.0,19500
+P0755,Samsung,Galaxy S21,Smartphone,2021,2021,Good,Exynos 2100,8,128,70000.0,27000
+P0756,HP,Pavilion 15,Laptop,2020,2022,Good,Intel i5,16,1024,62700.0,23500
+P0757,Dell,Latitude 5490,Laptop,2018,2020,Like New,Intel i5,8,256,60000.0,15000
+P0758,HP,Pavilion 15,Laptop,2020,2022,Good,Intel i5,8,1024,58300.0,25000
+P0759,Realme,Realme 8,Smartphone,2021,2023,Good,Helio G95,6,128,16000.0,6500
+P0760,HP,EliteBook 840 G5,Laptop,2018,2018,Like New,Intel i5,8,256,70000.0,19500
+P0761,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,4,64,20000.0,10500
+P0762,HP,Pavilion 15,Laptop,2020,2021,Like New,Intel i5,16,512,59400.0,25000
+P0763,Asus,VivoBook 15,Laptop,2021,2023,Fair,Intel i3,8,1024,50900.0,21000
+P0764,OnePlus,OnePlus 9,Smartphone,2021,2023,Good,Snapdragon 888,8,128,50000.0,21000
+P0765,Samsung,Galaxy S21,Smartphone,2021,2023,Good,Exynos 2100,8,128,70000.0,30000
+P0766,Realme,Realme 8,Smartphone,2021,2023,Fair,Helio G95,12,128,17300.0,6000
+P0767,Dell,Latitude 5490,Laptop,2018,2019,Good,Intel i5,8,256,60000.0,16500
+P0768,Apple,MacBook Air M1,Laptop,2020,2020,Fair,Apple M1,8,512,97500.0,33500
+P0769,Apple,iPhone 12,Smartphone,2020,2020,Good,A14 Bionic,4,256,68900.0,28000
+P0770,Samsung,Galaxy Tab A8,Tablet,2022,2024,Fair,Unisoc T618,4,128,21200.0,9000
+P0771,HP,EliteBook 840 G5,Laptop,2018,2020,Good,Intel i5,8,512,74200.0,18000
+P0772,OnePlus,OnePlus 9,Smartphone,2021,2022,Good,Snapdragon 888,16,128,54000.0,33000
+P0773,HP,Pavilion 15,Laptop,2020,2020,Good,Intel i5,8,512,55000.0,18500
+P0774,Asus,VivoBook 15,Laptop,2021,2021,Good,Intel i3,16,512,51800.0,20500
+P0775,Lenovo,ThinkPad T480,Laptop,2018,2018,Like New,Intel i5,8,256,65000.0,19500
+P0776,Samsung,Galaxy S21,Smartphone,2021,2021,Good,Exynos 2100,16,128,75600.0,34500
+P0777,HP,EliteBook 840 G5,Laptop,2018,2020,Poor,Intel i5,8,256,70000.0,12500
+P0778,HP,Pavilion 15,Laptop,2020,2020,Poor,Intel i5,8,512,55000.0,14500
+P0779,Lenovo,ThinkPad T480,Laptop,2018,2020,Good,Intel i5,16,256,70200.0,20000
+P0780,Apple,iPad 9th Gen,Tablet,2021,2022,Fair,A13 Bionic,6,64,32400.0,14500
+P0781,Asus,VivoBook 15,Laptop,2021,2021,Good,Intel i3,16,1024,54700.0,22500
+P0782,Samsung,Galaxy S21,Smartphone,2021,2022,Poor,Exynos 2100,16,128,75600.0,22500
+P0783,Realme,Realme 8,Smartphone,2021,2023,Poor,Helio G95,6,128,16000.0,5500
+P0784,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,256,65000.0,16500
+P0785,Dell,Latitude 5490,Laptop,2018,2020,Fair,Intel i5,16,512,68400.0,15500
+P0786,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,6,128,16000.0,9500
+P0787,Acer,Aspire 5,Laptop,2021,2021,Good,Intel i5,16,512,48600.0,22000
+P0788,HP,Pavilion 15,Laptop,2020,2020,Poor,Intel i5,8,512,55000.0,13500
+P0789,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,256,65000.0,16500
+P0790,Apple,iPad 9th Gen,Tablet,2021,2023,Like New,A13 Bionic,3,64,30000.0,16000
+P0791,Acer,Aspire 5,Laptop,2021,2021,Fair,Intel i5,16,1024,51300.0,18500
+P0792,Samsung,Galaxy Tab A8,Tablet,2022,2023,Good,Unisoc T618,4,64,20000.0,10000
+P0793,Samsung,Galaxy Tab A8,Tablet,2022,2024,Like New,Unisoc T618,4,128,21200.0,10500
+P0794,OnePlus,OnePlus 9,Smartphone,2021,2023,Like New,Snapdragon 888,16,256,57000.0,25500
+P0795,Dell,Latitude 5490,Laptop,2018,2020,Fair,Intel i5,8,256,60000.0,14500
+P0796,Apple,iPhone 12,Smartphone,2020,2020,Like New,A14 Bionic,8,128,70200.0,30500
+P0797,Apple,iPad 9th Gen,Tablet,2021,2023,Fair,A13 Bionic,6,64,32400.0,15500
+P0798,Dell,Latitude 5490,Laptop,2018,2020,Like New,Intel i5,16,512,68400.0,18500
+P0799,Lenovo,ThinkPad T480,Laptop,2018,2018,Good,Intel i5,16,512,74100.0,20500
+P0800,HP,Pavilion 15,Laptop,2020,2021,Fair,Intel i5,8,512,55000.0,16500
+P0801,Lenovo,ThinkPad T480,Laptop,2018,2020,Like New,Intel i5,8,256,65000.0,18000
+P0802,Asus,VivoBook 15,Laptop,2021,2023,Good,Intel i3,8,1024,50900.0,22500
+P0803,HP,EliteBook 840 G5,Laptop,2018,2019,Like New,Intel i5,16,512,79800.0,14500
+P0804,Realme,Realme 8,Smartphone,2021,2022,Fair,Helio G95,12,128,17300.0,6500
+P0805,Dell,Latitude 5490,Laptop,2018,2019,Fair,Intel i5,8,256,60000.0,13500
+P0806,Asus,VivoBook 15,Laptop,2021,2021,Fair,Intel i3,8,1024,50900.0,18000
+P0807,HP,EliteBook 840 G5,Laptop,2018,2019,Fair,Intel i5,8,256,70000.0,12500
+P0808,Apple,MacBook Air M1,Laptop,2020,2021,Fair,Apple M1,8,512,97500.0,33000
+P0809,Apple,MacBook Air M1,Laptop,2020,2021,Good,Apple M1,16,256,99400.0,43000
+P0810,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,6,256,17000.0,6500
+P0811,Realme,Realme 8,Smartphone,2021,2023,Good,Helio G95,12,128,17300.0,7000
+P0812,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,12,128,17300.0,7500
+P0813,Samsung,Galaxy S21,Smartphone,2021,2023,Poor,Exynos 2100,16,128,75600.0,27000
+P0814,Apple,MacBook Air M1,Laptop,2020,2020,Like New,Apple M1,8,256,92000.0,46000
+P0815,Dell,Latitude 5490,Laptop,2018,2018,Good,Intel i5,8,256,60000.0,15500
+P0816,Samsung,Galaxy S21,Smartphone,2021,2021,Fair,Exynos 2100,16,128,75600.0,20500
+P0817,HP,EliteBook 840 G5,Laptop,2018,2020,Good,Intel i5,8,512,74200.0,19500
+P0818,Apple,MacBook Air M1,Laptop,2020,2022,Like New,Apple M1,8,512,97500.0,49000
+P0819,Realme,Realme 8,Smartphone,2021,2023,Good,Helio G95,12,128,17300.0,8500
+P0820,Lenovo,ThinkPad T480,Laptop,2018,2018,Good,Intel i5,8,512,68900.0,26000
+P0821,Apple,iPad 9th Gen,Tablet,2021,2021,Poor,A13 Bionic,6,64,32400.0,12500
+P0822,Lenovo,ThinkPad T480,Laptop,2018,2020,Like New,Intel i5,16,256,70200.0,19500
+P0823,Lenovo,ThinkPad T480,Laptop,2018,2020,Like New,Intel i5,16,256,70200.0,18500
+P0824,Apple,iPhone 12,Smartphone,2020,2021,Fair,A14 Bionic,4,256,68900.0,25500
+P0825,Apple,iPad 9th Gen,Tablet,2021,2023,Like New,A13 Bionic,3,64,30000.0,15500
+P0826,OnePlus,OnePlus 9,Smartphone,2021,2022,Poor,Snapdragon 888,8,256,53000.0,14500
+P0827,Asus,VivoBook 15,Laptop,2021,2023,Good,Intel i3,16,512,51800.0,24000
+P0828,OnePlus,OnePlus 9,Smartphone,2021,2023,Good,Snapdragon 888,8,128,50000.0,20500
+P0829,Samsung,Galaxy S21,Smartphone,2021,2022,Like New,Exynos 2100,8,128,70000.0,30000
+P0830,Apple,iPhone 12,Smartphone,2020,2022,Fair,A14 Bionic,4,128,65000.0,32000
+P0831,Asus,VivoBook 15,Laptop,2021,2022,Fair,Intel i3,8,512,48000.0,19000
+P0832,Apple,iPhone 12,Smartphone,2020,2022,Good,A14 Bionic,4,256,68900.0,27000
+P0833,Apple,MacBook Air M1,Laptop,2020,2021,Good,Apple M1,8,256,92000.0,36000
+P0834,HP,Pavilion 15,Laptop,2020,2020,Fair,Intel i5,16,512,59400.0,18000
+P0835,Apple,iPhone 12,Smartphone,2020,2020,Good,A14 Bionic,4,128,65000.0,25500
+P0836,HP,Pavilion 15,Laptop,2020,2022,Like New,Intel i5,8,512,55000.0,14500
+P0837,Apple,MacBook Air M1,Laptop,2020,2022,Good,Apple M1,16,512,104900.0,43500
+P0838,Lenovo,ThinkPad T480,Laptop,2018,2019,Like New,Intel i5,8,256,65000.0,22500
+P0839,Samsung,Galaxy S21,Smartphone,2021,2022,Like New,Exynos 2100,8,128,70000.0,41000
+P0840,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,12,128,17300.0,7000
+P0841,Acer,Aspire 5,Laptop,2021,2021,Good,Intel i5,8,512,45000.0,19500
+P0842,HP,EliteBook 840 G5,Laptop,2018,2020,Like New,Intel i5,16,512,79800.0,24500
+P0843,HP,Pavilion 15,Laptop,2020,2021,Like New,Intel i5,8,512,55000.0,20500
+P0844,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,8,256,74200.0,29500
+P0845,OnePlus,OnePlus 9,Smartphone,2021,2021,Fair,Snapdragon 888,8,128,50000.0,20000
+P0846,Acer,Aspire 5,Laptop,2021,2023,Like New,Intel i5,8,512,45000.0,21500
+P0847,Acer,Aspire 5,Laptop,2021,2023,Good,Intel i5,8,1024,47700.0,21000
+P0848,Lenovo,ThinkPad T480,Laptop,2018,2018,Good,Intel i5,8,256,65000.0,16000
+P0849,Apple,iPad 9th Gen,Tablet,2021,2023,Poor,A13 Bionic,3,64,30000.0,9500
+P0850,Apple,iPad 9th Gen,Tablet,2021,2021,Fair,A13 Bionic,6,128,34200.0,15000
+P0851,HP,EliteBook 840 G5,Laptop,2018,2018,Good,Intel i5,8,512,74200.0,18500
+P0852,HP,EliteBook 840 G5,Laptop,2018,2018,Good,Intel i5,16,512,79800.0,22500
+P0853,Lenovo,ThinkPad T480,Laptop,2018,2020,Fair,Intel i5,8,256,65000.0,14500
+P0854,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Like New,Snapdragon 678,4,128,15900.0,7000
+P0855,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,3,64,30000.0,14000
+P0856,Apple,iPad 9th Gen,Tablet,2021,2021,Like New,A13 Bionic,6,128,34200.0,18500
+P0857,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,3,64,30000.0,16000
+P0858,Samsung,Galaxy Tab A8,Tablet,2022,2024,Fair,Unisoc T618,8,128,22800.0,10500
+P0859,Samsung,Galaxy Tab A8,Tablet,2022,2022,Good,Unisoc T618,8,128,22800.0,11500
+P0860,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,8,256,74200.0,28000
+P0861,Acer,Aspire 5,Laptop,2021,2021,Good,Intel i5,16,1024,51300.0,35000
+P0862,Asus,VivoBook 15,Laptop,2021,2021,Poor,Intel i3,8,512,48000.0,14000
+P0863,Apple,MacBook Air M1,Laptop,2020,2020,Fair,Apple M1,8,256,92000.0,37000
+P0864,Lenovo,ThinkPad T480,Laptop,2018,2019,Fair,Intel i5,8,512,68900.0,16000
+P0865,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Good,Snapdragon 678,4,128,15900.0,6500
+P0866,Apple,MacBook Air M1,Laptop,2020,2020,Fair,Apple M1,8,256,92000.0,32000
+P0867,Lenovo,ThinkPad T480,Laptop,2018,2020,Fair,Intel i5,8,256,65000.0,17500
+P0868,HP,EliteBook 840 G5,Laptop,2018,2020,Fair,Intel i5,16,256,75600.0,26000
+P0869,Samsung,Galaxy Tab A8,Tablet,2022,2024,Fair,Unisoc T618,8,128,22800.0,10500
+P0870,Acer,Aspire 5,Laptop,2021,2022,Fair,Intel i5,16,512,48600.0,17500
+P0871,Samsung,Galaxy Tab A8,Tablet,2022,2022,Good,Unisoc T618,8,64,21600.0,12500
+P0872,Apple,MacBook Air M1,Laptop,2020,2020,Good,Apple M1,8,512,97500.0,36500
+P0873,OnePlus,OnePlus 9,Smartphone,2021,2022,Fair,Snapdragon 888,16,128,54000.0,18500
+P0874,Apple,iPad 9th Gen,Tablet,2021,2021,Poor,A13 Bionic,3,128,31800.0,12500
+P0875,Dell,Latitude 5490,Laptop,2018,2019,Good,Intel i5,16,512,68400.0,17000
+P0876,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,8,512,55000.0,21000
+P0877,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Like New,Snapdragon 678,4,128,15900.0,7000
+P0878,HP,EliteBook 840 G5,Laptop,2018,2018,Good,Intel i5,8,256,70000.0,16500
+P0879,OnePlus,OnePlus 9,Smartphone,2021,2021,Good,Snapdragon 888,8,256,53000.0,24000
+P0880,Samsung,Galaxy Tab A8,Tablet,2022,2022,Like New,Unisoc T618,4,64,20000.0,8500
+P0881,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,3,64,30000.0,14000
+P0882,HP,Pavilion 15,Laptop,2020,2021,Like New,Intel i5,8,512,55000.0,24000
+P0883,Acer,Aspire 5,Laptop,2021,2022,Good,Intel i5,8,512,45000.0,18500
+P0884,HP,EliteBook 840 G5,Laptop,2018,2019,Like New,Intel i5,8,256,70000.0,20500
+P0885,Samsung,Galaxy S21,Smartphone,2021,2023,Fair,Exynos 2100,16,128,75600.0,29500
+P0886,Apple,MacBook Air M1,Laptop,2020,2020,Good,Apple M1,16,256,99400.0,41500
+P0887,OnePlus,OnePlus 9,Smartphone,2021,2023,Like New,Snapdragon 888,8,128,50000.0,15500
+P0888,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,8,64,16200.0,7000
+P0889,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,8,64,16200.0,6500
+P0890,HP,Pavilion 15,Laptop,2020,2022,Good,Intel i5,8,512,55000.0,21500
+P0891,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,6,64,32400.0,14000
+P0892,Apple,MacBook Air M1,Laptop,2020,2020,Like New,Apple M1,8,512,97500.0,45000
+P0893,Dell,Latitude 5490,Laptop,2018,2020,Good,Intel i5,8,256,60000.0,16500
+P0894,HP,Pavilion 15,Laptop,2020,2020,Good,Intel i5,8,512,55000.0,21000
+P0895,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,8,512,48000.0,21000
+P0896,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Fair,Snapdragon 678,4,128,15900.0,6000
+P0897,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Poor,Snapdragon 678,4,64,15000.0,5000
+P0898,Apple,iPad 9th Gen,Tablet,2021,2023,Fair,A13 Bionic,6,64,32400.0,13000
+P0899,Asus,VivoBook 15,Laptop,2021,2021,Good,Intel i3,8,512,48000.0,21000
+P0900,Apple,iPhone 12,Smartphone,2020,2020,Good,A14 Bionic,4,128,65000.0,24000
+P0901,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,3,128,31800.0,14500
+P0902,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,12,128,17300.0,5500
+P0903,Apple,iPhone 12,Smartphone,2020,2020,Good,A14 Bionic,4,256,68900.0,29000
+P0904,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,8,512,55000.0,19000
+P0905,OnePlus,OnePlus 9,Smartphone,2021,2023,Good,Snapdragon 888,8,128,50000.0,20500
+P0906,Lenovo,ThinkPad T480,Laptop,2018,2020,Good,Intel i5,8,256,65000.0,16000
+P0907,OnePlus,OnePlus 9,Smartphone,2021,2022,Good,Snapdragon 888,16,256,57000.0,27500
+P0908,Samsung,Galaxy Tab A8,Tablet,2022,2022,Like New,Unisoc T618,8,128,22800.0,10000
+P0909,Apple,iPhone 12,Smartphone,2020,2020,Like New,A14 Bionic,4,128,65000.0,27500
+P0910,Apple,iPhone 12,Smartphone,2020,2021,Good,A14 Bionic,8,128,70200.0,28000
+P0911,HP,Pavilion 15,Laptop,2020,2022,Good,Intel i5,16,1024,62700.0,21500
+P0912,Acer,Aspire 5,Laptop,2021,2022,Fair,Intel i5,8,512,45000.0,17000
+P0913,OnePlus,OnePlus 9,Smartphone,2021,2021,Good,Snapdragon 888,8,128,50000.0,21500
+P0914,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,3,64,30000.0,15500
+P0915,Samsung,Galaxy Tab A8,Tablet,2022,2023,Like New,Unisoc T618,4,64,20000.0,11500
+P0916,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,8,64,16200.0,6500
+P0917,HP,EliteBook 840 G5,Laptop,2018,2020,Like New,Intel i5,8,512,74200.0,21000
+P0918,Realme,Realme 8,Smartphone,2021,2023,Good,Helio G95,6,128,16000.0,7000
+P0919,Apple,MacBook Air M1,Laptop,2020,2020,Like New,Apple M1,8,256,92000.0,41000
+P0920,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Fair,Snapdragon 678,8,64,16200.0,6000
+P0921,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,3,64,30000.0,19500
+P0922,Apple,iPad 9th Gen,Tablet,2021,2023,Fair,A13 Bionic,3,64,30000.0,12000
+P0923,OnePlus,OnePlus 9,Smartphone,2021,2023,Good,Snapdragon 888,8,128,50000.0,22000
+P0924,Samsung,Galaxy S21,Smartphone,2021,2023,Good,Exynos 2100,8,256,74200.0,33500
+P0925,Apple,iPhone 12,Smartphone,2020,2022,Good,A14 Bionic,4,256,68900.0,29000
+P0926,Acer,Aspire 5,Laptop,2021,2023,Good,Intel i5,16,512,48600.0,22500
+P0927,Apple,iPad 9th Gen,Tablet,2021,2022,Good,A13 Bionic,3,128,31800.0,18000
+P0928,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,4,64,20000.0,9500
+P0929,OnePlus,OnePlus 9,Smartphone,2021,2023,Fair,Snapdragon 888,16,128,54000.0,22000
+P0930,Realme,Realme 8,Smartphone,2021,2021,Fair,Helio G95,12,128,17300.0,6000
+P0931,OnePlus,OnePlus 9,Smartphone,2021,2022,Fair,Snapdragon 888,8,128,50000.0,15000
+P0932,Apple,MacBook Air M1,Laptop,2020,2022,Poor,Apple M1,8,256,92000.0,28000
+P0933,Asus,VivoBook 15,Laptop,2021,2021,Poor,Intel i3,8,1024,50900.0,15500
+P0934,Acer,Aspire 5,Laptop,2021,2021,Good,Intel i5,8,1024,47700.0,18500
+P0935,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,8,1024,50900.0,22000
+P0936,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,4,64,15000.0,5500
+P0937,HP,EliteBook 840 G5,Laptop,2018,2019,Like New,Intel i5,16,256,75600.0,20500
+P0938,Apple,iPad 9th Gen,Tablet,2021,2022,Good,A13 Bionic,3,128,31800.0,15000
+P0939,Realme,Realme 8,Smartphone,2021,2022,Fair,Helio G95,12,128,17300.0,6000
+P0940,Apple,MacBook Air M1,Laptop,2020,2022,Good,Apple M1,16,512,104900.0,41500
+P0941,Apple,MacBook Air M1,Laptop,2020,2020,Fair,Apple M1,8,256,92000.0,34000
+P0942,HP,EliteBook 840 G5,Laptop,2018,2019,Good,Intel i5,8,256,70000.0,19000
+P0943,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,256,65000.0,16500
+P0944,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,16,256,79800.0,37000
+P0945,Acer,Aspire 5,Laptop,2021,2021,Poor,Intel i5,16,1024,51300.0,14000
+P0946,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,6,64,32400.0,16000
+P0947,Asus,VivoBook 15,Laptop,2021,2022,Like New,Intel i3,8,1024,50900.0,22000
+P0948,Lenovo,ThinkPad T480,Laptop,2018,2018,Good,Intel i5,8,256,65000.0,16000
+P0949,Apple,MacBook Air M1,Laptop,2020,2021,Good,Apple M1,16,256,99400.0,39500
+P0950,Apple,MacBook Air M1,Laptop,2020,2021,Like New,Apple M1,8,256,92000.0,41000
+P0951,HP,Pavilion 15,Laptop,2020,2020,Good,Intel i5,16,1024,62700.0,23500
+P0952,Apple,MacBook Air M1,Laptop,2020,2020,Like New,Apple M1,16,512,104900.0,47500
+P0953,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,8,512,48000.0,17500
+P0954,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,3,64,30000.0,16000
+P0955,Samsung,Galaxy S21,Smartphone,2021,2021,Like New,Exynos 2100,16,128,75600.0,46500
+P0956,Apple,MacBook Air M1,Laptop,2020,2022,Like New,Apple M1,8,256,92000.0,42000
+P0957,Dell,Latitude 5490,Laptop,2018,2018,Good,Intel i5,8,256,60000.0,15500
+P0958,HP,EliteBook 840 G5,Laptop,2018,2018,Fair,Intel i5,16,256,75600.0,17500
+P0959,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,6,256,17000.0,8000
+P0960,Apple,iPhone 12,Smartphone,2020,2021,Good,A14 Bionic,4,128,65000.0,14000
+P0961,Asus,VivoBook 15,Laptop,2021,2021,Poor,Intel i3,8,512,48000.0,17000
+P0962,Apple,iPhone 12,Smartphone,2020,2021,Good,A14 Bionic,4,128,65000.0,29000
+P0963,Asus,VivoBook 15,Laptop,2021,2022,Poor,Intel i3,16,512,51800.0,18500
+P0964,Apple,MacBook Air M1,Laptop,2020,2022,Fair,Apple M1,8,256,92000.0,32000
+P0965,HP,EliteBook 840 G5,Laptop,2018,2018,Poor,Intel i5,8,256,70000.0,13000
+P0966,Acer,Aspire 5,Laptop,2021,2023,Good,Intel i5,16,1024,51300.0,21500
+P0967,Acer,Aspire 5,Laptop,2021,2021,Poor,Intel i5,8,512,45000.0,13500
+P0968,Apple,iPhone 12,Smartphone,2020,2020,Fair,A14 Bionic,4,256,68900.0,18500
+P0969,Apple,MacBook Air M1,Laptop,2020,2020,Good,Apple M1,8,512,97500.0,41000
+P0970,Asus,VivoBook 15,Laptop,2021,2022,Fair,Intel i3,8,512,48000.0,17500
+P0971,Lenovo,ThinkPad T480,Laptop,2018,2019,Fair,Intel i5,16,256,70200.0,16500
+P0972,OnePlus,OnePlus 9,Smartphone,2021,2021,Good,Snapdragon 888,8,128,50000.0,20500
+P0973,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,8,128,70000.0,31000
+P0974,HP,EliteBook 840 G5,Laptop,2018,2018,Good,Intel i5,8,512,74200.0,17500
+P0975,Samsung,Galaxy Tab A8,Tablet,2022,2022,Like New,Unisoc T618,4,64,20000.0,10500
+P0976,OnePlus,OnePlus 9,Smartphone,2021,2022,Good,Snapdragon 888,8,128,50000.0,23000
+P0977,Asus,VivoBook 15,Laptop,2021,2023,Good,Intel i3,16,512,51800.0,22000
+P0978,Lenovo,ThinkPad T480,Laptop,2018,2018,Good,Intel i5,8,256,65000.0,11000
+P0979,Samsung,Galaxy S21,Smartphone,2021,2023,Good,Exynos 2100,8,128,70000.0,27500
+P0980,Samsung,Galaxy Tab A8,Tablet,2022,2022,Good,Unisoc T618,8,64,21600.0,9500
+P0981,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,4,64,15000.0,6500
+P0982,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Like New,Snapdragon 678,8,64,16200.0,10000
+P0983,HP,Pavilion 15,Laptop,2020,2021,Like New,Intel i5,8,512,55000.0,11000
+P0984,Apple,iPhone 12,Smartphone,2020,2022,Good,A14 Bionic,4,256,68900.0,27000
+P0985,Samsung,Galaxy S21,Smartphone,2021,2021,Fair,Exynos 2100,8,256,74200.0,27500
+P0986,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,8,128,22800.0,12500
+P0987,Apple,MacBook Air M1,Laptop,2020,2021,Like New,Apple M1,8,256,92000.0,41500
+P0988,Lenovo,ThinkPad T480,Laptop,2018,2020,Like New,Intel i5,8,256,65000.0,16500
+P0989,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,16,1024,62700.0,30000
+P0990,HP,Pavilion 15,Laptop,2020,2021,Like New,Intel i5,8,512,55000.0,20500
+P0991,Realme,Realme 8,Smartphone,2021,2021,Like New,Helio G95,6,256,17000.0,7500
+P0992,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,8,64,21600.0,11000
+P0993,Samsung,Galaxy S21,Smartphone,2021,2021,Like New,Exynos 2100,8,256,74200.0,36500
+P0994,Apple,MacBook Air M1,Laptop,2020,2020,Good,Apple M1,8,512,97500.0,41000
+P0995,Apple,iPad 9th Gen,Tablet,2021,2022,Good,A13 Bionic,3,64,30000.0,16500
+P0996,Dell,Latitude 5490,Laptop,2018,2018,Good,Intel i5,8,256,60000.0,14500
+P0997,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,16,256,79800.0,33500
+P0998,Samsung,Galaxy Tab A8,Tablet,2022,2023,Like New,Unisoc T618,4,64,20000.0,11000
+P0999,Apple,MacBook Air M1,Laptop,2020,2020,Fair,Apple M1,8,512,97500.0,36000
+P1000,HP,Pavilion 15,Laptop,2020,2022,Fair,Intel i5,16,512,59400.0,21000
+P1001,Samsung,Galaxy Tab A8,Tablet,2022,2023,Fair,Unisoc T618,8,128,22800.0,9500
+P1002,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Poor,Snapdragon 678,8,64,16200.0,5000
+P1003,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Good,Snapdragon 678,4,64,15000.0,6000
+P1004,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Fair,Snapdragon 678,4,64,15000.0,6000
+P1005,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,4,64,20000.0,6500
+P1006,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Like New,Snapdragon 678,4,64,15000.0,8500
+P1007,Samsung,Galaxy S21,Smartphone,2021,2023,Good,Exynos 2100,16,128,75600.0,34000
+P1008,Apple,MacBook Air M1,Laptop,2020,2021,Good,Apple M1,16,256,99400.0,42000
+P1009,Lenovo,ThinkPad T480,Laptop,2018,2020,Like New,Intel i5,16,256,70200.0,10500
+P1010,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,3,64,30000.0,13000
+P1011,Apple,MacBook Air M1,Laptop,2020,2020,Like New,Apple M1,16,256,99400.0,41500
+P1012,Asus,VivoBook 15,Laptop,2021,2022,Fair,Intel i3,16,1024,54700.0,21500
+P1013,OnePlus,OnePlus 9,Smartphone,2021,2023,Good,Snapdragon 888,8,128,50000.0,32000
+P1014,OnePlus,OnePlus 9,Smartphone,2021,2022,Poor,Snapdragon 888,16,128,54000.0,16500
+P1015,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Poor,Snapdragon 678,8,128,17100.0,5000
+P1016,Samsung,Galaxy S21,Smartphone,2021,2021,Good,Exynos 2100,8,256,74200.0,32500
+P1017,Dell,Latitude 5490,Laptop,2018,2018,Poor,Intel i5,8,512,63600.0,12500
+P1018,Acer,Aspire 5,Laptop,2021,2022,Like New,Intel i5,8,512,45000.0,21000
+P1019,Samsung,Galaxy Tab A8,Tablet,2022,2022,Fair,Unisoc T618,4,64,20000.0,10000
+P1020,Apple,MacBook Air M1,Laptop,2020,2022,Good,Apple M1,8,512,97500.0,42000
+P1021,OnePlus,OnePlus 9,Smartphone,2021,2022,Fair,Snapdragon 888,8,128,50000.0,20000
+P1022,Dell,Latitude 5490,Laptop,2018,2019,Good,Intel i5,8,512,63600.0,14500
+P1023,Acer,Aspire 5,Laptop,2021,2021,Good,Intel i5,8,512,45000.0,21000
+P1024,Asus,VivoBook 15,Laptop,2021,2021,Fair,Intel i3,8,512,48000.0,18000
+P1025,HP,EliteBook 840 G5,Laptop,2018,2019,Fair,Intel i5,8,256,70000.0,16000
+P1026,Asus,VivoBook 15,Laptop,2021,2021,Good,Intel i3,8,1024,50900.0,20500
+P1027,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,8,128,17100.0,7000
+P1028,Lenovo,ThinkPad T480,Laptop,2018,2020,Good,Intel i5,8,256,65000.0,23500
+P1029,Apple,iPad 9th Gen,Tablet,2021,2023,Poor,A13 Bionic,6,64,32400.0,12500
+P1030,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,512,68900.0,28500
+P1031,Samsung,Galaxy Tab A8,Tablet,2022,2023,Like New,Unisoc T618,8,64,21600.0,12500
+P1032,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,6,256,17000.0,6500
+P1033,Realme,Realme 8,Smartphone,2021,2021,Like New,Helio G95,6,128,16000.0,8500
+P1034,Samsung,Galaxy S21,Smartphone,2021,2021,Good,Exynos 2100,16,256,79800.0,35000
+P1035,HP,EliteBook 840 G5,Laptop,2018,2019,Fair,Intel i5,8,256,70000.0,16500
+P1036,Dell,Latitude 5490,Laptop,2018,2018,Fair,Intel i5,8,256,60000.0,13500
+P1037,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,12,128,17300.0,7000
+P1038,Lenovo,ThinkPad T480,Laptop,2018,2020,Like New,Intel i5,16,512,74100.0,21500
+P1039,HP,EliteBook 840 G5,Laptop,2018,2018,Like New,Intel i5,8,512,74200.0,22500
+P1040,Lenovo,ThinkPad T480,Laptop,2018,2020,Poor,Intel i5,8,512,68900.0,12500
+P1041,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,3,128,31800.0,18000
+P1042,OnePlus,OnePlus 9,Smartphone,2021,2023,Good,Snapdragon 888,8,256,53000.0,14000
+P1043,Samsung,Galaxy S21,Smartphone,2021,2021,Good,Exynos 2100,8,128,70000.0,29500
+P1044,Apple,iPad 9th Gen,Tablet,2021,2022,Like New,A13 Bionic,6,64,32400.0,16500
+P1045,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Poor,Snapdragon 678,4,64,15000.0,4500
+P1046,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,8,512,55000.0,17500
+P1047,Lenovo,ThinkPad T480,Laptop,2018,2020,Good,Intel i5,8,512,68900.0,19000
+P1048,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,16,1024,62700.0,20500
+P1049,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,8,512,55000.0,20000
+P1050,OnePlus,OnePlus 9,Smartphone,2021,2022,Good,Snapdragon 888,8,128,50000.0,20500
+P1051,Lenovo,ThinkPad T480,Laptop,2018,2019,Fair,Intel i5,16,512,74100.0,18000
+P1052,Samsung,Galaxy Tab A8,Tablet,2022,2023,Like New,Unisoc T618,4,64,20000.0,11000
+P1053,Apple,iPad 9th Gen,Tablet,2021,2021,Fair,A13 Bionic,3,64,30000.0,13000
+P1054,Apple,MacBook Air M1,Laptop,2020,2020,Like New,Apple M1,8,256,92000.0,39000
+P1055,Samsung,Galaxy S21,Smartphone,2021,2021,Like New,Exynos 2100,8,256,74200.0,34500
+P1056,Realme,Realme 8,Smartphone,2021,2022,Fair,Helio G95,6,256,17000.0,6500
+P1057,Dell,Latitude 5490,Laptop,2018,2020,Fair,Intel i5,16,256,64800.0,14500
+P1058,Apple,iPhone 12,Smartphone,2020,2020,Fair,A14 Bionic,4,128,65000.0,27000
+P1059,HP,EliteBook 840 G5,Laptop,2018,2018,Good,Intel i5,8,256,70000.0,19500
+P1060,Samsung,Galaxy S21,Smartphone,2021,2022,Like New,Exynos 2100,16,128,75600.0,33000
+P1061,OnePlus,OnePlus 9,Smartphone,2021,2022,Good,Snapdragon 888,16,128,54000.0,25500
+P1062,Acer,Aspire 5,Laptop,2021,2023,Poor,Intel i5,8,512,45000.0,14500
+P1063,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,256,65000.0,10500
+P1064,OnePlus,OnePlus 9,Smartphone,2021,2021,Good,Snapdragon 888,8,128,50000.0,22500
+P1065,HP,Pavilion 15,Laptop,2020,2020,Good,Intel i5,16,512,59400.0,21000
+P1066,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,16,512,51800.0,14500
+P1067,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Like New,Snapdragon 678,4,128,15900.0,7000
+P1068,Apple,iPhone 12,Smartphone,2020,2022,Like New,A14 Bionic,4,128,65000.0,27000
+P1069,Dell,Latitude 5490,Laptop,2018,2020,Good,Intel i5,16,256,64800.0,9000
+P1070,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,3,64,30000.0,15500
+P1071,Acer,Aspire 5,Laptop,2021,2021,Fair,Intel i5,16,1024,51300.0,17500
+P1072,Dell,Latitude 5490,Laptop,2018,2018,Good,Intel i5,8,256,60000.0,14500
+P1073,Dell,Latitude 5490,Laptop,2018,2019,Fair,Intel i5,16,256,64800.0,13500
+P1074,OnePlus,OnePlus 9,Smartphone,2021,2022,Good,Snapdragon 888,8,256,53000.0,23000
+P1075,Apple,iPhone 12,Smartphone,2020,2020,Good,A14 Bionic,4,128,65000.0,30500
+P1076,Xiaomi,Redmi Note 10,Smartphone,2021,2023,Like New,Snapdragon 678,4,64,15000.0,4500
+P1077,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,8,64,21600.0,11500
+P1078,Apple,iPhone 12,Smartphone,2020,2022,Good,A14 Bionic,8,128,70200.0,34500
+P1079,OnePlus,OnePlus 9,Smartphone,2021,2021,Fair,Snapdragon 888,16,128,54000.0,32000
+P1080,Acer,Aspire 5,Laptop,2021,2023,Fair,Intel i5,16,1024,51300.0,21000
+P1081,Lenovo,ThinkPad T480,Laptop,2018,2020,Poor,Intel i5,16,256,70200.0,14000
+P1082,OnePlus,OnePlus 9,Smartphone,2021,2021,Poor,Snapdragon 888,8,256,53000.0,15500
+P1083,Dell,Latitude 5490,Laptop,2018,2020,Like New,Intel i5,8,256,60000.0,16000
+P1084,Apple,iPad 9th Gen,Tablet,2021,2022,Good,A13 Bionic,6,64,32400.0,16500
+P1085,Apple,iPad 9th Gen,Tablet,2021,2023,Fair,A13 Bionic,3,128,31800.0,13500
+P1086,Apple,iPad 9th Gen,Tablet,2021,2021,Fair,A13 Bionic,6,64,32400.0,14000
+P1087,Apple,iPad 9th Gen,Tablet,2021,2021,Fair,A13 Bionic,3,64,30000.0,10000
+P1088,Acer,Aspire 5,Laptop,2021,2023,Like New,Intel i5,16,512,48600.0,22500
+P1089,Asus,VivoBook 15,Laptop,2021,2021,Good,Intel i3,16,512,51800.0,22500
+P1090,HP,Pavilion 15,Laptop,2020,2020,Like New,Intel i5,8,512,55000.0,22500
+P1091,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,16,1024,54700.0,26500
+P1092,OnePlus,OnePlus 9,Smartphone,2021,2023,Fair,Snapdragon 888,8,256,53000.0,20000
+P1093,Samsung,Galaxy Tab A8,Tablet,2022,2022,Like New,Unisoc T618,4,64,20000.0,11500
+P1094,Acer,Aspire 5,Laptop,2021,2021,Poor,Intel i5,16,1024,51300.0,17000
+P1095,Dell,Latitude 5490,Laptop,2018,2018,Fair,Intel i5,16,256,64800.0,14500
+P1096,Realme,Realme 8,Smartphone,2021,2022,Fair,Helio G95,12,256,18200.0,6500
+P1097,HP,EliteBook 840 G5,Laptop,2018,2020,Good,Intel i5,8,512,74200.0,19500
+P1098,Apple,iPhone 12,Smartphone,2020,2021,Good,A14 Bionic,4,128,65000.0,29000
+P1099,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Fair,Snapdragon 678,4,64,15000.0,6000
+P1100,Acer,Aspire 5,Laptop,2021,2023,Good,Intel i5,8,512,45000.0,19000
+P1101,Apple,iPhone 12,Smartphone,2020,2021,Fair,A14 Bionic,8,128,70200.0,27000
+P1102,Asus,VivoBook 15,Laptop,2021,2022,Fair,Intel i3,8,512,48000.0,17000
+P1103,Dell,Latitude 5490,Laptop,2018,2019,Like New,Intel i5,8,256,60000.0,16000
+P1104,Asus,VivoBook 15,Laptop,2021,2023,Fair,Intel i3,8,512,48000.0,19000
+P1105,Asus,VivoBook 15,Laptop,2021,2022,Like New,Intel i3,8,512,48000.0,20000
+P1106,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,3,64,30000.0,14000
+P1107,OnePlus,OnePlus 9,Smartphone,2021,2022,Fair,Snapdragon 888,8,128,50000.0,18000
+P1108,OnePlus,OnePlus 9,Smartphone,2021,2023,Poor,Snapdragon 888,8,256,53000.0,8000
+P1109,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,12,128,17300.0,7500
+P1110,Apple,iPhone 12,Smartphone,2020,2022,Good,A14 Bionic,4,128,65000.0,26000
+P1111,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Fair,Snapdragon 678,4,128,15900.0,6500
+P1112,Dell,Latitude 5490,Laptop,2018,2019,Like New,Intel i5,8,256,60000.0,17500
+P1113,HP,EliteBook 840 G5,Laptop,2018,2018,Like New,Intel i5,8,256,70000.0,20500
+P1114,OnePlus,OnePlus 9,Smartphone,2021,2023,Fair,Snapdragon 888,8,128,50000.0,10000
+P1115,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Poor,Snapdragon 678,8,128,17100.0,5000
+P1116,Apple,iPhone 12,Smartphone,2020,2020,Fair,A14 Bionic,8,128,70200.0,20000
+P1117,HP,Pavilion 15,Laptop,2020,2020,Fair,Intel i5,8,1024,58300.0,18000
+P1118,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Fair,Snapdragon 678,8,128,17100.0,6500
+P1119,Samsung,Galaxy S21,Smartphone,2021,2021,Poor,Exynos 2100,8,256,74200.0,27500
+P1120,Apple,iPhone 12,Smartphone,2020,2020,Good,A14 Bionic,4,128,65000.0,26000
+P1121,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,12,128,17300.0,7500
+P1122,Realme,Realme 8,Smartphone,2021,2022,Like New,Helio G95,6,128,16000.0,8500
+P1123,OnePlus,OnePlus 9,Smartphone,2021,2021,Poor,Snapdragon 888,16,128,54000.0,15500
+P1124,Samsung,Galaxy S21,Smartphone,2021,2021,Good,Exynos 2100,8,128,70000.0,28500
+P1125,Samsung,Galaxy S21,Smartphone,2021,2023,Fair,Exynos 2100,8,256,74200.0,30000
+P1126,Acer,Aspire 5,Laptop,2021,2021,Good,Intel i5,16,1024,51300.0,21000
+P1127,Apple,iPhone 12,Smartphone,2020,2021,Good,A14 Bionic,4,256,68900.0,30500
+P1128,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,6,128,16000.0,4500
+P1129,Lenovo,ThinkPad T480,Laptop,2018,2018,Good,Intel i5,8,256,65000.0,18000
+P1130,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,8,1024,50900.0,22000
+P1131,Samsung,Galaxy S21,Smartphone,2021,2022,Good,Exynos 2100,8,128,70000.0,32000
+P1132,Samsung,Galaxy Tab A8,Tablet,2022,2024,Good,Unisoc T618,8,128,22800.0,11500
+P1133,HP,EliteBook 840 G5,Laptop,2018,2019,Fair,Intel i5,8,256,70000.0,17000
+P1134,Asus,VivoBook 15,Laptop,2021,2022,Good,Intel i3,8,512,48000.0,22000
+P1135,Samsung,Galaxy Tab A8,Tablet,2022,2023,Poor,Unisoc T618,4,128,21200.0,8000
+P1136,Apple,iPad 9th Gen,Tablet,2021,2021,Fair,A13 Bionic,6,64,32400.0,15000
+P1137,Apple,iPad 9th Gen,Tablet,2021,2022,Good,A13 Bionic,3,64,30000.0,14000
+P1138,HP,EliteBook 840 G5,Laptop,2018,2019,Fair,Intel i5,8,256,70000.0,18000
+P1139,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Like New,Snapdragon 678,8,128,17100.0,5500
+P1140,Apple,iPhone 12,Smartphone,2020,2022,Poor,A14 Bionic,8,256,74100.0,21500
+P1141,OnePlus,OnePlus 9,Smartphone,2021,2023,Fair,Snapdragon 888,16,128,54000.0,21000
+P1142,Apple,iPhone 12,Smartphone,2020,2020,Good,A14 Bionic,8,128,70200.0,33000
+P1143,Apple,MacBook Air M1,Laptop,2020,2022,Fair,Apple M1,8,512,97500.0,35000
+P1144,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Good,Snapdragon 678,4,128,15900.0,7000
+P1145,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,12,256,18200.0,5000
+P1146,HP,Pavilion 15,Laptop,2020,2022,Fair,Intel i5,8,512,55000.0,22500
+P1147,Apple,MacBook Air M1,Laptop,2020,2022,Good,Apple M1,16,256,99400.0,42500
+P1148,Apple,iPad 9th Gen,Tablet,2021,2021,Fair,A13 Bionic,3,128,31800.0,12500
+P1149,Lenovo,ThinkPad T480,Laptop,2018,2018,Poor,Intel i5,8,256,65000.0,16000
+P1150,Apple,iPhone 12,Smartphone,2020,2022,Good,A14 Bionic,8,128,70200.0,27000
+P1151,Lenovo,ThinkPad T480,Laptop,2018,2019,Good,Intel i5,8,256,65000.0,15000
+P1152,Dell,Latitude 5490,Laptop,2018,2020,Good,Intel i5,8,256,60000.0,21000
+P1153,Dell,Latitude 5490,Laptop,2018,2020,Good,Intel i5,8,256,60000.0,14500
+P1154,Lenovo,ThinkPad T480,Laptop,2018,2018,Good,Intel i5,8,256,65000.0,17500
+P1155,Apple,MacBook Air M1,Laptop,2020,2021,Poor,Apple M1,16,512,104900.0,35000
+P1156,Lenovo,ThinkPad T480,Laptop,2018,2019,Like New,Intel i5,8,512,68900.0,19500
+P1157,HP,EliteBook 840 G5,Laptop,2018,2019,Fair,Intel i5,16,256,75600.0,17000
+P1158,Apple,iPhone 12,Smartphone,2020,2020,Like New,A14 Bionic,8,128,70200.0,31000
+P1159,HP,EliteBook 840 G5,Laptop,2018,2018,Good,Intel i5,8,512,74200.0,19000
+P1160,Lenovo,ThinkPad T480,Laptop,2018,2018,Good,Intel i5,8,256,65000.0,16000
+P1161,Apple,MacBook Air M1,Laptop,2020,2020,Poor,Apple M1,8,512,97500.0,29500
+P1162,HP,EliteBook 840 G5,Laptop,2018,2018,Like New,Intel i5,8,512,74200.0,23500
+P1163,Apple,MacBook Air M1,Laptop,2020,2021,Fair,Apple M1,8,512,97500.0,38000
+P1164,Realme,Realme 8,Smartphone,2021,2023,Fair,Helio G95,12,256,18200.0,6000
+P1165,Realme,Realme 8,Smartphone,2021,2021,Good,Helio G95,6,128,16000.0,10500
+P1166,Apple,iPhone 12,Smartphone,2020,2020,Good,A14 Bionic,8,128,70200.0,29000
+P1167,Apple,iPad 9th Gen,Tablet,2021,2021,Good,A13 Bionic,6,64,32400.0,14500
+P1168,OnePlus,OnePlus 9,Smartphone,2021,2023,Good,Snapdragon 888,8,128,50000.0,18500
+P1169,Acer,Aspire 5,Laptop,2021,2023,Good,Intel i5,8,512,45000.0,19000
+P1170,HP,Pavilion 15,Laptop,2020,2022,Fair,Intel i5,8,1024,58300.0,19500
+P1171,HP,EliteBook 840 G5,Laptop,2018,2020,Good,Intel i5,8,256,70000.0,19000
+P1172,Samsung,Galaxy S21,Smartphone,2021,2023,Good,Exynos 2100,16,128,75600.0,32000
+P1173,Lenovo,ThinkPad T480,Laptop,2018,2020,Good,Intel i5,8,256,65000.0,16500
+P1174,Samsung,Galaxy Tab A8,Tablet,2022,2022,Like New,Unisoc T618,4,64,20000.0,10500
+P1175,HP,EliteBook 840 G5,Laptop,2018,2018,Like New,Intel i5,8,256,70000.0,20000
+P1176,Realme,Realme 8,Smartphone,2021,2023,Good,Helio G95,6,128,16000.0,7000
+P1177,Apple,MacBook Air M1,Laptop,2020,2021,Like New,Apple M1,8,512,97500.0,41000
+P1178,HP,Pavilion 15,Laptop,2020,2021,Like New,Intel i5,8,512,55000.0,18000
+P1179,Apple,iPhone 12,Smartphone,2020,2021,Good,A14 Bionic,4,128,65000.0,25500
+P1180,HP,Pavilion 15,Laptop,2020,2021,Good,Intel i5,16,1024,62700.0,20500
+P1181,Asus,VivoBook 15,Laptop,2021,2022,Fair,Intel i3,16,1024,54700.0,21000
+P1182,Apple,iPhone 12,Smartphone,2020,2020,Fair,A14 Bionic,4,128,65000.0,25500
+P1183,HP,EliteBook 840 G5,Laptop,2018,2018,Good,Intel i5,8,512,74200.0,18500
+P1184,Acer,Aspire 5,Laptop,2021,2021,Good,Intel i5,8,512,45000.0,19500
+P1185,Apple,iPad 9th Gen,Tablet,2021,2023,Good,A13 Bionic,6,64,32400.0,15500
+P1186,Apple,MacBook Air M1,Laptop,2020,2022,Fair,Apple M1,8,256,92000.0,54000
+P1187,HP,EliteBook 840 G5,Laptop,2018,2019,Good,Intel i5,8,512,74200.0,14000
+P1188,HP,EliteBook 840 G5,Laptop,2018,2019,Fair,Intel i5,8,256,70000.0,15500
+P1189,Lenovo,ThinkPad T480,Laptop,2018,2020,Like New,Intel i5,16,256,70200.0,21000
+P1190,Realme,Realme 8,Smartphone,2021,2022,Good,Helio G95,6,256,17000.0,8000
+P1191,Apple,iPad 9th Gen,Tablet,2021,2022,Poor,A13 Bionic,6,128,34200.0,13000
+P1192,Dell,Latitude 5490,Laptop,2018,2019,Good,Intel i5,16,256,64800.0,18000
+P1193,Samsung,Galaxy Tab A8,Tablet,2022,2023,Like New,Unisoc T618,8,64,21600.0,11000
+P1194,Xiaomi,Redmi Note 10,Smartphone,2021,2021,Good,Snapdragon 678,4,128,15900.0,6500
+P1195,OnePlus,OnePlus 9,Smartphone,2021,2021,Like New,Snapdragon 888,8,256,53000.0,25000
+P1196,OnePlus,OnePlus 9,Smartphone,2021,2022,Good,Snapdragon 888,8,256,53000.0,19000
+P1197,Samsung,Galaxy S21,Smartphone,2021,2022,Like New,Exynos 2100,16,256,79800.0,36500
+P1198,Samsung,Galaxy S21,Smartphone,2021,2021,Good,Exynos 2100,16,128,75600.0,33000
+P1199,Apple,MacBook Air M1,Laptop,2020,2022,Good,Apple M1,8,256,92000.0,38000
+P1200,Xiaomi,Redmi Note 10,Smartphone,2021,2022,Like New,Snapdragon 678,4,64,15000.0,6500
